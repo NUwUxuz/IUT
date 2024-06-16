@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560.0" prefWidth="834.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="vue.CtrlImpressionBillet">
+   <children>
+      <GridPane alignment="CENTER" prefHeight="96.0" prefWidth="834.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="368.4000244140625" minWidth="10.0" prefWidth="365.20001220703125" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="270.00000000000006" minWidth="10.0" prefWidth="100.8000549316406" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="366.9999694824219" minWidth="10.0" prefWidth="364.5999450683594" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label alignment="CENTER" prefHeight="40.0" prefWidth="147.0" text="Imprimé" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" text="Imprimable" GridPane.halignment="CENTER">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Label>
+         </children>
+      </GridPane>
+      <HBox prefHeight="530.0" prefWidth="834.0">
+         <children>
+            <TableView fx:id="lvImprimable" prefHeight="475.0" prefWidth="350.0">
+              <columns>
+                <TableColumn fx:id="colImrpimableNum" prefWidth="41.0" text="N°" />
+                <TableColumn fx:id="colImrpimableNom" prefWidth="149.0" text="Nom Client" />
+                  <TableColumn fx:id="colImrpimableJour" prefWidth="82.0" text="Jour" />
+                  <TableColumn fx:id="colImrpimableHeure" prefWidth="77.0" text="Heure" />
+              </columns>
+            </TableView>
+            <VBox alignment="CENTER" prefHeight="304.0" prefWidth="0.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <Button fx:id="bnImprimableToImprime" mnemonicParsing="false" text="&gt;">
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </Button>
+                  <Button fx:id="bnImprimeToImprimable" mnemonicParsing="false" text="&lt;">
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                  </Button>
+               </children>
+            </VBox>
+            <TableView fx:id="lvImprime" prefHeight="475.0" prefWidth="350.0">
+               <columns>
+                  <TableColumn fx:id="colImrpimeNum" prefWidth="41.0" text="N°" />
+                  <TableColumn fx:id="colImrpimeNom" prefWidth="149.0" text="Nom Client" />
+                  <TableColumn fx:id="colImrpimeJour" prefWidth="82.0" text="Jour" />
+                  <TableColumn fx:id="colImrpimeHeure" prefWidth="77.0" text="Heure" />
+               </columns>
+            </TableView>
+         </children>
+      </HBox>
+      <HBox alignment="BOTTOM_RIGHT" prefHeight="100.0" prefWidth="834.0">
+         <children>
+            <Button fx:id="bnImprime" alignment="CENTER" mnemonicParsing="false" onAction="#imprime" prefHeight="26.0" prefWidth="100.0" text="Imprimer">
+               <HBox.margin>
+                  <Insets bottom="10.0" right="20.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="bnAnnuler" alignment="CENTER" mnemonicParsing="false" onAction="#annuler" prefWidth="100.0" text="Annuler">
+               <HBox.margin>
+                  <Insets bottom="10.0" right="20.0" />
+               </HBox.margin>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets left="10.0" right="10.0" />
+   </padding>
+</VBox>
