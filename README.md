@@ -1,1 +1,1 @@
-Ce dépôt possède tous les projets effectuer en IUT
+Archives de tous les projets réalisé en IUT
