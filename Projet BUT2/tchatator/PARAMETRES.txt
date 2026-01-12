@@ -1,0 +1,26 @@
+# Port d'écoute du serveur
+PORT=4242
+
+# Nombre maximal de connexions en attente
+BACKLOG=10
+
+# Taille maximale du buffer de réception
+BUFSIZE=4096
+
+# Nombre maximal de messages renvoyés à un utilisateur
+LEN_MSG_HISTORY=20
+
+# Durée de bannissement en secondes
+BAN_DURATION=3600
+
+# Nombre maximal de messages envoyés par minute
+MAX_MESSAGES_PER_MIN=30
+
+# Taille maximale d'un message en caractères
+MAX_MSG_SIZE=1024
+
+# Taille maximale du buffer de la clé d'API
+BUFFER_SIZE=1024
+
+# Taille de la clé d'API
+SIZE_KEY=64

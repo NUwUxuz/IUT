@@ -1,0 +1,2713 @@
+[2025-02-02 22:06:12] [] [] Server started.
+[2025-02-02 22:06:12] [] [] Connected to the database successfully.
+[2025-02-02 22:06:12] [] [] Error getting address info.
+[2025-02-02 22:07:51] [] [] Server started.
+[2025-02-02 22:07:51] [] [] Connected to the database successfully.
+[2025-02-02 22:07:51] [] [] Error getting address info.
+[2025-02-02 22:09:30] [] [] Server started.
+[2025-02-02 22:09:30] [] [] Connected to the database successfully.
+[2025-02-02 22:09:30] [] [] Server is listening on port 4242
+[2025-02-02 22:13:50] [] [] Server started.
+[2025-02-02 22:13:50] [] [] Connected to the database successfully.
+[2025-02-02 22:13:50] [] [] Server is listening on port 4242
+[2025-02-02 22:14:25] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:14:25] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:14:28] [] [127.0.0.1] Error receiving data from client.
+[2025-02-02 22:22:54] [] [] Server started.
+[2025-02-02 22:22:54] [] [] Connected to the database successfully.
+[2025-02-02 22:22:54] [] [] Server is listening on port 4242
+[2025-02-02 22:23:07] [] [] Server started.
+[2025-02-02 22:23:08] [] [] Connected to the database successfully.
+[2025-02-02 22:23:08] [] [] Server is listening on port 4242
+[2025-02-02 22:23:13] [] [] Server started.
+[2025-02-02 22:23:13] [] [] Connected to the database successfully.
+[2025-02-02 22:23:13] [] [] Server is listening on port 4242
+[2025-02-02 22:23:41] [] [] Server started.
+[2025-02-02 22:23:41] [] [] Connected to the database successfully.
+[2025-02-02 22:23:41] [] [] Server is listening on port 4242
+[2025-02-02 22:23:47] [] [] Server started.
+[2025-02-02 22:23:47] [] [] Connected to the database successfully.
+[2025-02-02 22:23:47] [] [] Error binding socket.
+[2025-02-02 22:24:59] [] [] Server started.
+[2025-02-02 22:24:59] [] [] Connected to the database successfully.
+[2025-02-02 22:24:59] [] [] Server is listening on port 4242
+[2025-02-02 22:25:08] [] [] Server started.
+[2025-02-02 22:25:08] [] [] Connected to the database successfully.
+[2025-02-02 22:25:08] [] [] Server is listening on port 4242
+[2025-02-02 22:25:17] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:25:17] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:25:23] [] [127.0.0.1] Error receiving data from client.
+[2025-02-02 22:25:26] [] [] Server started.
+[2025-02-02 22:25:26] [] [] Connected to the database successfully.
+[2025-02-02 22:25:26] [] [] Server is listening on port 4242
+[2025-02-02 22:25:55] [] [] Server started.
+[2025-02-02 22:25:55] [] [] Connected to the database successfully.
+[2025-02-02 22:25:55] [] [] Server is listening on port 4242
+[2025-02-02 22:26:28] [] [] Server started.
+[2025-02-02 22:26:28] [] [] Connected to the database successfully.
+[2025-02-02 22:26:28] [] [] Server is listening on port 4242
+[2025-02-02 22:27:02] [] [] Server started.
+[2025-02-02 22:27:02] [] [] Connected to the database successfully.
+[2025-02-02 22:27:02] [] [] Server is listening on port 4242
+[2025-02-02 22:28:35] [] [] Server started.
+[2025-02-02 22:28:35] [] [] Connected to the database successfully.
+[2025-02-02 22:28:35] [] [] Server is listening on port 4242
+[2025-02-02 22:30:11] [] [] Server started.
+[2025-02-02 22:30:11] [] [] Connected to the database successfully.
+[2025-02-02 22:30:11] [] [] Server is listening on port 4242
+[2025-02-02 22:30:18] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:30:18] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:30:59] [] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:30:59] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:30:59] [] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:30:59] [] [127.0.0.1] API key found.
+[2025-02-02 22:30:59] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:30:59] [] [127.0.0.1] API key valid.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:30:59] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:30:59] [2] [127.0.0.1] Admin key found.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:30:59] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:30:59] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:30:59] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:30:59] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:30:59] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:30:59] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:30:59] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:30:59] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:30:59] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name found.
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:30:59] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:30:59] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:30:59] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:30:59] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:30:59] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name found.
+[2025-02-02 22:30:59] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:30:59] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:30:59] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:30:59] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:30:59] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:30:59] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:30:59] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:30:59] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:31:58] [2] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:31:58] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:33:11] [] [] Server started.
+[2025-02-02 22:33:14] [] [] Connected to the database successfully.
+[2025-02-02 22:33:14] [] [] Server is listening on port 4242
+[2025-02-02 22:33:39] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:34:54] [] [] Server started.
+[2025-02-02 22:34:54] [] [] Connected to the database successfully.
+[2025-02-02 22:34:54] [] [] Server is listening on port 4242
+[2025-02-02 22:34:56] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:34:56] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:34:57] [] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:34:57] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:34:57] [] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:34:57] [] [127.0.0.1] API key found.
+[2025-02-02 22:34:57] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:34:57] [] [127.0.0.1] API key valid.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:34:57] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:34:57] [2] [127.0.0.1] Admin key found.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:34:57] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:34:57] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:34:57] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:34:57] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:34:57] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:34:57] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:34:57] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:34:57] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:34:57] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name found.
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:34:57] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:34:57] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:34:57] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:34:57] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:34:57] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name found.
+[2025-02-02 22:34:57] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:34:57] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:34:57] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:34:57] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:34:57] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:34:57] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:34:57] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:34:57] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:35:00] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:35:00] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:35:00] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:36:23] [] [] Server started.
+[2025-02-02 22:36:23] [] [] Connected to the database successfully.
+[2025-02-02 22:36:23] [] [] Server is listening on port 4242
+[2025-02-02 22:37:00] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:37:01] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:37:09] [] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:37:09] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:37:09] [] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:37:09] [] [127.0.0.1] API key found.
+[2025-02-02 22:37:09] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:37:09] [] [127.0.0.1] API key valid.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:37:09] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:37:09] [2] [127.0.0.1] Admin key found.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:37:09] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:37:09] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:37:09] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:37:09] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:37:09] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:37:09] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:37:09] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:37:09] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:37:09] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name found.
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:37:09] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:37:09] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:37:09] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:37:09] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:37:09] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name found.
+[2025-02-02 22:37:09] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:37:09] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:37:09] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:37:09] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:37:09] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:37:09] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:37:09] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:37:09] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:38:14] [2] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:38:14] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:38:29] [] [] Server started.
+[2025-02-02 22:38:29] [] [] Connected to the database successfully.
+[2025-02-02 22:38:29] [] [] Server is listening on port 4242
+[2025-02-02 22:38:32] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:38:32] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:38:33] [] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:38:33] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:38:33] [] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:38:33] [] [127.0.0.1] API key found.
+[2025-02-02 22:38:33] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:38:33] [] [127.0.0.1] API key valid.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:38:33] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:38:33] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Client found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:38:33] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:38:33] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:38:33] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:38:33] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:38:33] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:38:33] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:38:33] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:38:33] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:38:33] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:38:33] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:38:33] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:38:33] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:38:33] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:38:33] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:38:33] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:38:33] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:38:33] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:38:33] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:38:33] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:38:33] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:38:33] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:38:35] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:38:35] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:38:35] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:39:59] [] [] Server started.
+[2025-02-02 22:39:59] [] [] Connected to the database successfully.
+[2025-02-02 22:39:59] [] [] Server is listening on port 4242
+[2025-02-02 22:40:36] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:40:36] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:40:43] [] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:40:43] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:40:43] [] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:40:43] [] [127.0.0.1] API key found.
+[2025-02-02 22:40:43] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:40:43] [] [127.0.0.1] API key valid.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:40:43] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:40:43] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Client found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:40:43] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:40:43] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:40:43] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:40:43] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:40:43] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:40:43] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:40:43] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:40:43] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:40:43] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:40:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:40:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:40:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:40:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:40:43] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:40:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:40:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:40:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:40:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:40:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:40:43] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:40:43] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:41:55] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:41:55] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:41:55] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:42:01] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:42:01] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:42:04] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:42:04] [2] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:42:04] [2] [127.0.0.1] API key found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:42:04] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:42:04] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:42:04] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Client found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:42:04] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:42:04] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:42:04] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:42:04] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:42:04] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:42:04] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:42:04] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:42:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:42:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:42:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:42:04] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:42:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:42:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:42:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:42:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:42:04] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:42:04] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:42:09] [2] [127.0.0.1] Received conversation ID from client: 1
+[2025-02-02 22:42:09] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:42:09] [2] [127.0.0.1] Checking conversation ID: 1
+[2025-02-02 22:42:09] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:42:09] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:42:09] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:42:09] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:42:09] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:42:09] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:42:09] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:42:09] [2] [127.0.0.1] Conversation selected: 1
+[2025-02-02 22:42:20] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:42:20] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:42:20] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:42:20] [2] [127.0.0.1] 1   | [2025-02-02] - Moi                 : Bonjour, l'annonce du restaurant La Ville Blanche est-elle toujours valide ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 1   | [2025-02-02] - Moi                 : Bonjour, l'annonce du restaurant La Ville Blanche est-elle toujours valide ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 2   | [2025-02-02] - Modem Nicola        : Bonjour Jonnie, oui, l'annonce est toujours valable. Que souhaitez-vous savoir ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 2   | [2025-02-02] - Modem Nicola        : Bonjour Jonnie, oui, l'annonce est toujours valable. Que souhaitez-vous savoir ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 3   | [2025-02-02] - Moi                 : Super ! Quels sont les horaires d'ouverture du restaurant ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 3   | [2025-02-02] - Moi                 : Super ! Quels sont les horaires d'ouverture du restaurant ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 4   | [2025-02-02] - Modem Nicola        : Le restaurant est ouvert du mardi au samedi, de 12h à 14h et de 19h à 22h.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 4   | [2025-02-02] - Modem Nicola        : Le restaurant est ouvert du mardi au samedi, de 12h à 14h et de 19h à 22h.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 5   | [2025-02-02] - Moi                 : D'accord, est-il possible de réserver une table en ligne ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 5   | [2025-02-02] - Moi                 : D'accord, est-il possible de réserver une table en ligne ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 6   | [2025-02-02] - Modem Nicola        : Oui, vous pouvez réserver via notre site ou par téléphone.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 6   | [2025-02-02] - Modem Nicola        : Oui, vous pouvez réserver via notre site ou par téléphone.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 7   | [2025-02-02] - Moi                 : Est-ce que le restaurant propose des options végétariennes ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 7   | [2025-02-02] - Moi                 : Est-ce que le restaurant propose des options végétariennes ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 8   | [2025-02-02] - Modem Nicola        : Bien sûr, nous avons plusieurs plats végétariens et vegan.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 8   | [2025-02-02] - Modem Nicola        : Bien sûr, nous avons plusieurs plats végétariens et vegan.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:42:20] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:42:20] [2] [127.0.0.1] Final message: 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:42:20] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:42:20] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:42:20] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:42:20] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:42:59] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -ECEIVE
+[2025-02-02 22:42:59] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:42:59] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:43:04] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:43:04] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:43:04] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:43:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:43:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:43:04] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:43:04] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:43:04] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:43:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:43:04] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:43:04] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:04] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:04] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:43:04] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:04] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:43:04] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:43:11] [2] [127.0.0.1] Received conversation ID from client: NEW
+[2025-02-02 22:43:11] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:43:11] [2] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:43:11] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:43:11] [2] [127.0.0.1] Rows: 0
+[2025-02-02 22:43:11] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:43:11] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:43:11] [2] [127.0.0.1] Returning result: false
+[2025-02-02 22:43:11] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:43:11] [2] [127.0.0.1] Received NEW command from client.
+[2025-02-02 22:43:11] [2] [127.0.0.1] Waiting for conversation informations from client.
+[2025-02-02 22:43:42] [2] [127.0.0.1] Received conversation informations from client: 1002
+[2025-02-02 22:43:42] [2] [127.0.0.1] Professional ID: 8
+[2025-02-02 22:43:42] [2] [127.0.0.1] Message for creating a new conversation...
+[2025-02-02 22:43:49] [2] [127.0.0.1] Received message from client: bonjour
+
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sender is a client.
+[2025-02-02 22:43:49] [2] [127.0.0.1] SELECT DISCUSSION
+[2025-02-02 22:43:49] [2] [127.0.0.1] Discussion ID: -1
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of SELECT DISCUSSION
+[2025-02-02 22:43:49] [2] [127.0.0.1] INSERTION DISCUSSION
+[2025-02-02 22:43:49] [2] [127.0.0.1] Discussion created: 3
+[2025-02-02 22:43:49] [2] [127.0.0.1] INSERTION MESSAGE
+[2025-02-02 22:43:49] [2] [127.0.0.1] Message inserted.
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of INSERTION MESSAGE
+[2025-02-02 22:43:49] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:43:49] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:43:49] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:43:49] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:43:49] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:43:49] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:49] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:49] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:43:49] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:43:49] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:49] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:49] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:43:49] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:43:49] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:43:49] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:43:49] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:43:49] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:43:49] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:43:49] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:43:55] [2] [127.0.0.1] Received conversation ID from client: 3
+[2025-02-02 22:43:55] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:43:55] [2] [127.0.0.1] Checking conversation ID: 3
+[2025-02-02 22:43:55] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:43:55] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:43:55] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:43:55] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:43:55] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:43:55] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:43:55] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:43:55] [2] [127.0.0.1] Conversation selected: 3
+[2025-02-02 22:43:57] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:43:57] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:43:57] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:43:57] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:43:57] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : bonjour
+
+[2025-02-02 22:43:57] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:43:57] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:43:57] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : bonjour
+
+[2025-02-02 22:43:57] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:43:57] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:43:57] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:43:57] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Received command from client for RECEIVE MENU: CHANGE 0
+[2025-02-02 22:44:12] [2] [127.0.0.1] Received CHANGE command from client.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Message ID to change: 0
+[2025-02-02 22:44:12] [2] [127.0.0.1] Waiting for new message from client.
+[2025-02-02 22:44:12] [2] [127.0.0.1] New message: onjour.
+[2025-02-02 22:44:12] [2] [127.0.0.1] MODIFIER MESSAGE
+[2025-02-02 22:44:12] [2] [127.0.0.1] Checking if user is the sender of the message.
+[2025-02-02 22:44:12] [2] [127.0.0.1] User is not the sender of the message.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Change message result: 0
+[2025-02-02 22:44:12] [2] [127.0.0.1] You are not the sender of this message.
+[2025-02-02 22:44:12] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:44:12] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:44:12] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : bonjour
+
+[2025-02-02 22:44:12] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:44:12] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : bonjour
+
+[2025-02-02 22:44:12] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:44:12] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:44:12] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:44:12] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:44:40] [2] [127.0.0.1] Received command from client for RECEIVE MENU: CHANGE 31
+[2025-02-02 22:44:40] [2] [127.0.0.1] Received CHANGE command from client.
+[2025-02-02 22:44:40] [2] [127.0.0.1] Message ID to change: 31
+[2025-02-02 22:44:40] [2] [127.0.0.1] Waiting for new message from client.
+[2025-02-02 22:44:44] [2] [127.0.0.1] New message: Bonjour.
+[2025-02-02 22:44:44] [2] [127.0.0.1] MODIFIER MESSAGE
+[2025-02-02 22:44:44] [2] [127.0.0.1] Checking if user is the sender of the message.
+[2025-02-02 22:44:44] [2] [127.0.0.1] User is the sender of the message.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Text escaped for PostgreSQL.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message updated.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message updated.
+[2025-02-02 22:44:44] [2] [127.0.0.1] End of MODIFIER MESSAGE
+[2025-02-02 22:44:44] [2] [127.0.0.1] Change message result: 1
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message updated.
+[2025-02-02 22:44:44] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:44:44] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:44:44] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : Bonjour.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message has been modified.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message modified a few seconds ago.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message modification info:  (modifié il y a quelques secondes)
+[2025-02-02 22:44:44] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : Bonjour. (modifié il y a quelques secondes)
+[2025-02-02 22:44:44] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:44:44] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:44:44] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:44:44] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:44:53] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -HANGE 31
+[2025-02-02 22:44:53] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:44:53] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Received command from client: SEND
+[2025-02-02 22:44:57] [2] [127.0.0.1] Received SEND command from client.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Received message from client: test
+
+[2025-02-02 22:44:57] [2] [127.0.0.1] RECUP RECEIVER
+[2025-02-02 22:44:57] [2] [127.0.0.1] Fetching receiver for conversation 3
+[2025-02-02 22:44:57] [2] [127.0.0.1] Receiver fetched.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Receiver ID: 8
+[2025-02-02 22:44:57] [2] [127.0.0.1] End of RECUP RECEIVER
+[2025-02-02 22:44:57] [2] [127.0.0.1] Receiver ID: 8
+[2025-02-02 22:44:57] [2] [127.0.0.1] Sender ID: 2
+[2025-02-02 22:44:57] [2] [127.0.0.1] VERIFIER TYPE COMPTE
+[2025-02-02 22:44:57] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Client found.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Sender type: Client
+[2025-02-02 22:44:57] [2] [127.0.0.1] VERIFIER TYPE COMPTE
+[2025-02-02 22:44:57] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Professional found.
+[2025-02-02 22:44:57] [2] [127.0.0.1] Receiver type: Professionnel
+[2025-02-02 22:44:57] [2] [127.0.0.1] Sender is a client.
+[2025-02-02 22:44:57] [2] [127.0.0.1] SELECT DISCUSSION
+[2025-02-02 22:44:57] [2] [127.0.0.1] Discussion found: 3
+[2025-02-02 22:44:57] [2] [127.0.0.1] Discussion ID: 3
+[2025-02-02 22:44:57] [2] [127.0.0.1] End of SELECT DISCUSSION
+[2025-02-02 22:44:57] [2] [127.0.0.1] INSERTION DISCUSSION
+[2025-02-02 22:44:57] [2] [127.0.0.1] INSERTION MESSAGE
+[2025-02-02 22:44:57] [2] [127.0.0.1] Message inserted.
+[2025-02-02 22:44:57] [2] [127.0.0.1] End of INSERTION MESSAGE
+[2025-02-02 22:44:57] [2] [127.0.0.1] Message saved.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:44:59] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:44:59] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:44:59] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : Bonjour.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message has been modified.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message modified a few seconds ago.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message modification info:  (modifié il y a quelques secondes)
+[2025-02-02 22:44:59] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : Bonjour. (modifié il y a quelques secondes)
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:44:59] [2] [127.0.0.1] 32  | [2025-02-02] - Moi                 : test
+
+[2025-02-02 22:44:59] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:44:59] [2] [127.0.0.1] Final message: 32  | [2025-02-02] - Moi                 : test
+
+[2025-02-02 22:44:59] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:44:59] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:44:59] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:44:59] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Received command from client for RECEIVE MENU: DELETE 32
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message ID to delete: 32
+[2025-02-02 22:45:15] [2] [127.0.0.1] SUPPRIMER MESSAGE
+[2025-02-02 22:45:15] [2] [127.0.0.1] Checking if user is the sender of the message.
+[2025-02-02 22:45:15] [2] [127.0.0.1] User is the sender of the message.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Try to delete message.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message deleted.
+[2025-02-02 22:45:15] [2] [127.0.0.1] End of SUPPRIMER MESSAGE
+[2025-02-02 22:45:15] [2] [127.0.0.1] Delete message result: 1
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message deleted.
+[2025-02-02 22:45:15] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:45:15] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:45:15] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : Bonjour.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message has been modified.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message modified a few seconds ago.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message modification info:  (modifié il y a quelques secondes)
+[2025-02-02 22:45:15] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : Bonjour. (modifié il y a quelques secondes)
+[2025-02-02 22:45:15] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:45:15] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:45:15] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:45:15] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:45:19] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -ELETE 32
+[2025-02-02 22:45:19] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:45:19] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:45:22] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:45:22] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:45:22] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:45:22] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:45:22] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:45:22] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:45:22] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:45:22] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:45:22] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:45:22] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:45:22] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:45:22] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:46:30] [2] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:46:30] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:46:42] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:46:42] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:46:44] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:46:44] [2] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:46:44] [2] [127.0.0.1] API key found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:46:44] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:46:44] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Client found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:46:44] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:46:44] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:46:44] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:46:44] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:46:44] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:46:44] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:46:44] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:44] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:44] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:46:44] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:44] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:44] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:46:44] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:46:44] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:44] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:44] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:46:44] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:44] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:46:44] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:46:45] [2] [127.0.0.1] Received conversation ID from client: 3
+[2025-02-02 22:46:45] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:46:45] [2] [127.0.0.1] Checking conversation ID: 3
+[2025-02-02 22:46:45] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:46:45] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:46:45] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:46:45] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:46:45] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:46:45] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:46:45] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:46:45] [2] [127.0.0.1] Conversation selected: 3
+[2025-02-02 22:46:47] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:46:47] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:46:47] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:46:47] [2] [127.0.0.1] 31  | [2025-02-02] - Moi                 : Bonjour.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Message has been modified.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Message modified a few minutes ago.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Message modification info:  (modifié il y a quelques minutes)
+[2025-02-02 22:46:47] [2] [127.0.0.1] Final message: 31  | [2025-02-02] - Moi                 : Bonjour. (modifié il y a quelques minutes)
+[2025-02-02 22:46:47] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:46:47] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:46:47] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:46:47] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:46:50] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -ECEIVE
+[2025-02-02 22:46:50] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:46:50] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:46:52] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:46:52] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:46:52] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:46:52] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:46:52] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:46:52] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:46:52] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:52] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:52] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:46:52] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:52] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:46:52] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:46:53] [2] [127.0.0.1] Received conversation ID from client: 1
+[2025-02-02 22:46:53] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:46:53] [2] [127.0.0.1] Checking conversation ID: 1
+[2025-02-02 22:46:53] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:46:53] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:46:53] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:46:53] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:46:53] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:46:53] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:46:53] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:46:53] [2] [127.0.0.1] Conversation selected: 1
+[2025-02-02 22:46:55] [2] [127.0.0.1] Error receiving command from client.
+[2025-02-02 22:46:55] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:46:55] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:46:55] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:46:56] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:46:56] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:46:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:46:56] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:46:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:46:56] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:46:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:46:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:56] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:46:56] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:46:56] [2] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:46:56] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:46:57] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:46:57] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:46:58] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:46:58] [2] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:46:58] [2] [127.0.0.1] API key found.
+[2025-02-02 22:46:58] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:46:58] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:46:58] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:46:58] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Client found.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:46:58] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:46:58] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:46:58] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:46:58] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:46:58] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:46:58] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:46:58] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:46:58] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:46:58] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:46:58] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:46:58] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:46:59] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:59] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:59] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:59] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:46:59] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:46:59] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:59] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:59] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:59] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:46:59] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:46:59] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:46:59] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:46:59] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:46:59] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:46:59] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:46:59] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:46:59] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:47:03] [2] [127.0.0.1] Received conversation ID from client: 1
+[2025-02-02 22:47:03] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:47:03] [2] [127.0.0.1] Checking conversation ID: 1
+[2025-02-02 22:47:04] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:47:04] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:47:04] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:47:04] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:47:04] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:47:04] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:47:04] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:47:04] [2] [127.0.0.1] Conversation selected: 1
+[2025-02-02 22:47:06] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:47:06] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:47:06] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:47:06] [2] [127.0.0.1] 1   | [2025-02-02] - Moi                 : Bonjour, l'annonce du restaurant La Ville Blanche est-elle toujours valide ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 1   | [2025-02-02] - Moi                 : Bonjour, l'annonce du restaurant La Ville Blanche est-elle toujours valide ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 2   | [2025-02-02] - Modem Nicola        : Bonjour Jonnie, oui, l'annonce est toujours valable. Que souhaitez-vous savoir ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 2   | [2025-02-02] - Modem Nicola        : Bonjour Jonnie, oui, l'annonce est toujours valable. Que souhaitez-vous savoir ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 3   | [2025-02-02] - Moi                 : Super ! Quels sont les horaires d'ouverture du restaurant ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 3   | [2025-02-02] - Moi                 : Super ! Quels sont les horaires d'ouverture du restaurant ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 4   | [2025-02-02] - Modem Nicola        : Le restaurant est ouvert du mardi au samedi, de 12h à 14h et de 19h à 22h.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 4   | [2025-02-02] - Modem Nicola        : Le restaurant est ouvert du mardi au samedi, de 12h à 14h et de 19h à 22h.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 5   | [2025-02-02] - Moi                 : D'accord, est-il possible de réserver une table en ligne ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 5   | [2025-02-02] - Moi                 : D'accord, est-il possible de réserver une table en ligne ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 6   | [2025-02-02] - Modem Nicola        : Oui, vous pouvez réserver via notre site ou par téléphone.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 6   | [2025-02-02] - Modem Nicola        : Oui, vous pouvez réserver via notre site ou par téléphone.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 7   | [2025-02-02] - Moi                 : Est-ce que le restaurant propose des options végétariennes ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 7   | [2025-02-02] - Moi                 : Est-ce que le restaurant propose des options végétariennes ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 8   | [2025-02-02] - Modem Nicola        : Bien sûr, nous avons plusieurs plats végétariens et vegan.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 8   | [2025-02-02] - Modem Nicola        : Bien sûr, nous avons plusieurs plats végétariens et vegan.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:47:06] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:47:06] [2] [127.0.0.1] Final message: 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:47:06] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:47:06] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:47:06] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:47:06] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:47:50] [2] [127.0.0.1] Signal SIGHUP reçu, rechargement de la configuration...
+[2025-02-02 22:48:02] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -ECEIVE
+[2025-02-02 22:48:02] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:48:02] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Received command from client: RECEIVE
+[2025-02-02 22:48:09] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:48:09] [2] [127.0.0.1] No message ID provided.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:48:09] [2] [127.0.0.1] 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:09] [2] [127.0.0.1] Final message: 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:09] [2] [127.0.0.1] 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:48:09] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:09] [2] [127.0.0.1] Final message: 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:09] [2] [127.0.0.1] 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:09] [2] [127.0.0.1] Final message: 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:09] [2] [127.0.0.1] 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:48:09] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:09] [2] [127.0.0.1] Final message: 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:09] [2] [127.0.0.1] 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:48:09] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:09] [2] [127.0.0.1] Final message: 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:48:09] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:10] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:48:10] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:48:10] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Received command from client for RECEIVE MENU: +ECEIVE
+[2025-02-02 22:48:28] [2] [127.0.0.1] Received '+' command from client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message ID: 14
+[2025-02-02 22:48:28] [2] [127.0.0.1] Fetching messages before message ID 14
+[2025-02-02 22:48:28] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message ID: 14
+[2025-02-02 22:48:28] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:48:28] [2] [127.0.0.1] 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:28] [2] [127.0.0.1] Final message: 9   | [2025-02-02] - Moi                 : Parfait ! Quels sont les moyens de paiement acceptés ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:28] [2] [127.0.0.1] Final message: 10  | [2025-02-02] - Modem Nicola        : Nous acceptons carte bancaire, espèces et tickets restaurant.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:28] [2] [127.0.0.1] Final message: 11  | [2025-02-02] - Moi                 : Ok, proposez-vous un service de livraison ou à emporter ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:28] [2] [127.0.0.1] Final message: 12  | [2025-02-02] - Modem Nicola        : Oui, nous faisons de la vente à emporter, mais pas de livraison.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:28] [2] [127.0.0.1] Final message: 13  | [2025-02-02] - Modem Nicola        : D'accord, y a-t-il un parking à proximité ?
+[2025-02-02 22:48:28] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:28] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:48:28] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:48:28] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Received command from client for RECEIVE MENU: +ECEIVE
+[2025-02-02 22:48:34] [2] [127.0.0.1] Received '+' command from client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message ID: 94
+[2025-02-02 22:48:34] [2] [127.0.0.1] Fetching messages before message ID 94
+[2025-02-02 22:48:34] [2] [127.0.0.1] SEND USER MESSAGES
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message ID: 94
+[2025-02-02 22:48:34] [2] [127.0.0.1] Messages for user:
+[2025-02-02 22:48:34] [2] [127.0.0.1] 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:34] [2] [127.0.0.1] Final message: 14  | [2025-02-02] - Moi                 : Oui, un parking gratuit est disponible à 50m du restaurant.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:48:34] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:34] [2] [127.0.0.1] Final message: 15  | [2025-02-02] - Modem Nicola        : Le restaurant est-il accessible aux personnes à mobilité réduite ?
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:34] [2] [127.0.0.1] Final message: 16  | [2025-02-02] - Moi                 : Oui, nous disposons d'un accès PMR.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:48:34] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:34] [2] [127.0.0.1] Final message: 17  | [2025-02-02] - Modem Nicola        : Merci pour ces infos !
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:48:34] [2] [127.0.0.1] Checking if message has been modified.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message modification info: 
+[2025-02-02 22:48:34] [2] [127.0.0.1] Final message: 18  | [2025-02-02] - Moi                 : Avec plaisir !
+[2025-02-02 22:48:34] [2] [127.0.0.1] Message sent to client.
+[2025-02-02 22:48:34] [2] [127.0.0.1] Messages marked as read.
+[2025-02-02 22:48:34] [2] [127.0.0.1] End of SEND USER MESSAGES
+[2025-02-02 22:48:34] [2] [127.0.0.1] Messages sent to client.
+[2025-02-02 22:48:39] [2] [127.0.0.1] Received command from client for RECEIVE MENU: -ECEIVE
+[2025-02-02 22:48:39] [2] [127.0.0.1] Received '-' command from client.
+[2025-02-02 22:48:39] [2] [127.0.0.1] Leaving the RECEIVE menu.
+[2025-02-02 22:48:42] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:48:42] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:48:42] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:48:42] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:48:42] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:48:42] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:48:42] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:48:42] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:48:42] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:42] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:42] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:48:42] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:42] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:42] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:42] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:42] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:42] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:48:42] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:42] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:48:42] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:48:42] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:42] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:48:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:48:43] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:48:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:48:43] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:48:43] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:48:43] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:48:43] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:48:43] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:48:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:48:43] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:48:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:48:43] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:48:43] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:43] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:43] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:48:43] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:43] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:48:43] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:48:46] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:48:46] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:48:46] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:48:50] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:48:50] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:48:57] [2] [127.0.0.1] Received api_key from client: 12
+
+[2025-02-02 22:48:57] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:48:57] [2] [127.0.0.1] Vérification API key: 12
+[2025-02-02 22:48:57] [2] [127.0.0.1] API key found.
+[2025-02-02 22:48:57] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:48:57] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:48:57] [12] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:48:57] [12] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:48:57] [12] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:48:57] [12] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:48:57] [12] [127.0.0.1] Professional found.
+[2025-02-02 22:48:57] [12] [127.0.0.1] Account type: PRO
+[2025-02-02 22:48:57] [12] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:48:57] [12] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:48:57] [12] [127.0.0.1] EST BAN
+[2025-02-02 22:48:58] [12] [127.0.0.1] End of EST BAN
+[2025-02-02 22:48:58] [12] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:48:58] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:48:58] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:48:58] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:48:58] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:48:58] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:48:58] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:48:58] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:48:58] [12] [127.0.0.1] User name found.
+[2025-02-02 22:48:58] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:48:58] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:48:58] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:48:58] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:48:58] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:48:58] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:48:58] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:48:58] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:48:58] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:48:58] [12] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:49:06] [12] [127.0.0.1] Received conversation ID from client: 2
+[2025-02-02 22:49:06] [12] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:49:06] [12] [127.0.0.1] Checking conversation ID: 2
+[2025-02-02 22:49:06] [12] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:49:06] [12] [127.0.0.1] Rows: 1
+[2025-02-02 22:49:06] [12] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:49:06] [12] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:49:06] [12] [127.0.0.1] End of discussion check.
+[2025-02-02 22:49:06] [12] [127.0.0.1] Returning result: true
+[2025-02-02 22:49:06] [12] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:49:06] [12] [127.0.0.1] Conversation selected: 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] Received command from client: BLOCK
+[2025-02-02 22:49:25] [12] [127.0.0.1] Received BLOCK command from client.
+[2025-02-02 22:49:25] [12] [127.0.0.1] RECUP RECEIVER
+[2025-02-02 22:49:25] [12] [127.0.0.1] Fetching receiver for conversation 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] Receiver fetched.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of RECUP RECEIVER
+[2025-02-02 22:49:25] [12] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] BLOCK USER
+[2025-02-02 22:49:25] [12] [127.0.0.1] SELECT DISCUSSION
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussion found: 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussion ID: 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of SELECT DISCUSSION
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussion blocked 2.
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of BLOCK USER
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussion blocked.
+[2025-02-02 22:49:25] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:49:25] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:49:25] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name found.
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:49:25] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:25] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:25] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:49:25] [12] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:49:25] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:49:25] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:49:25] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name found.
+[2025-02-02 22:49:25] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:49:25] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:25] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:25] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:49:25] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:25] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:49:25] [12] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:49:32] [12] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:49:32] [12] [127.0.0.1] Client disconnected.
+[2025-02-02 22:49:32] [12] [127.0.0.1] END OF MENU
+[2025-02-02 22:49:35] [12] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:49:35] [12] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:49:37] [12] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:49:37] [12] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:49:37] [12] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:49:37] [12] [127.0.0.1] API key found.
+[2025-02-02 22:49:37] [12] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:49:37] [12] [127.0.0.1] API key valid.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:49:37] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Client found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:49:37] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:49:37] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:49:37] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:49:37] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:49:37] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:49:37] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:49:37] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:37] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:37] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:49:37] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:37] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:37] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:49:37] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:49:37] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:37] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:37] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:49:37] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:37] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:49:37] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:49:45] [2] [127.0.0.1] Received conversation ID from client: 2
+[2025-02-02 22:49:45] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:49:45] [2] [127.0.0.1] Checking conversation ID: 2
+[2025-02-02 22:49:45] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:49:45] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:49:45] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:49:45] [2] [127.0.0.1] Blocked conversation.
+[2025-02-02 22:49:45] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:49:45] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:49:45] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:49:45] [2] [127.0.0.1] Conversation selected: 2
+[2025-02-02 22:49:56] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:49:56] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:49:56] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:49:56] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:49:56] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:49:56] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:49:56] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:49:56] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:49:56] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:49:56] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:49:56] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:49:56] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:49:56] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:49:59] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:49:59] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:49:59] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:50:02] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:50:02] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:50:04] [2] [127.0.0.1] Received api_key from client: 12
+
+[2025-02-02 22:50:04] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:50:04] [2] [127.0.0.1] Vérification API key: 12
+[2025-02-02 22:50:04] [2] [127.0.0.1] API key found.
+[2025-02-02 22:50:04] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:50:04] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:50:04] [12] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:50:04] [12] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Professional found.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Account type: PRO
+[2025-02-02 22:50:04] [12] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:50:04] [12] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:50:04] [12] [127.0.0.1] EST BAN
+[2025-02-02 22:50:04] [12] [127.0.0.1] End of EST BAN
+[2025-02-02 22:50:04] [12] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:04] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:04] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:50:04] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:04] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:04] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:50:04] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:04] [12] [127.0.0.1] User name found.
+[2025-02-02 22:50:04] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:50:04] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:04] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:04] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:04] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:04] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:50:04] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:04] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:04] [12] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:50:06] [12] [127.0.0.1] Received conversation ID from client: 2
+[2025-02-02 22:50:06] [12] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:50:06] [12] [127.0.0.1] Checking conversation ID: 2
+[2025-02-02 22:50:06] [12] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:50:06] [12] [127.0.0.1] Rows: 1
+[2025-02-02 22:50:06] [12] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:50:06] [12] [127.0.0.1] Blocked conversation.
+[2025-02-02 22:50:06] [12] [127.0.0.1] End of discussion check.
+[2025-02-02 22:50:06] [12] [127.0.0.1] Returning result: true
+[2025-02-02 22:50:06] [12] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:50:06] [12] [127.0.0.1] Conversation selected: 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] Received command from client: UNBLOCK
+[2025-02-02 22:50:10] [12] [127.0.0.1] Received UNBLOCK command from client.
+[2025-02-02 22:50:10] [12] [127.0.0.1] RECUP RECEIVER
+[2025-02-02 22:50:10] [12] [127.0.0.1] Fetching receiver for conversation 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] Receiver fetched.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of RECUP RECEIVER
+[2025-02-02 22:50:10] [12] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] UNBLOCK USER
+[2025-02-02 22:50:10] [12] [127.0.0.1] SELECT DISCUSSION
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussion found: 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussion ID: 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of SELECT DISCUSSION
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussion unblocked.
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of UNBLOCK USER
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussion unblocked.
+[2025-02-02 22:50:10] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:10] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:10] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name found.
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:50:10] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:10] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:10] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:10] [12] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:10] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:10] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:10] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name found.
+[2025-02-02 22:50:10] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:50:10] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:10] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:10] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:50:10] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:10] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:10] [12] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:50:16] [12] [127.0.0.1] Received conversation ID from client: 2
+[2025-02-02 22:50:16] [12] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:50:16] [12] [127.0.0.1] Checking conversation ID: 2
+[2025-02-02 22:50:16] [12] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:50:16] [12] [127.0.0.1] Rows: 1
+[2025-02-02 22:50:16] [12] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:50:16] [12] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:50:16] [12] [127.0.0.1] End of discussion check.
+[2025-02-02 22:50:16] [12] [127.0.0.1] Returning result: true
+[2025-02-02 22:50:16] [12] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:50:16] [12] [127.0.0.1] Conversation selected: 2
+[2025-02-02 22:50:19] [12] [127.0.0.1] Error receiving command from client.
+[2025-02-02 22:50:19] [12] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:19] [12] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:19] [12] [127.0.0.1] Fetching discussions for user 12
+[2025-02-02 22:50:19] [12] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:19] [12] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:19] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:19] [12] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:50:19] [12] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:19] [12] [127.0.0.1] User name found.
+[2025-02-02 22:50:19] [12] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:50:19] [12] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:19] [12] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:19] [12] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:19] [12] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:19] [12] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:19] [12] [127.0.0.1] Sending conversation: Discussion ID: 2   | Jonnnie
+[2025-02-02 22:50:19] [12] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:19] [12] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:19] [12] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:50:19] [12] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:50:19] [12] [127.0.0.1] END OF MENU
+[2025-02-02 22:50:22] [12] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:50:22] [12] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:50:23] [12] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:50:23] [12] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:50:23] [12] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:50:23] [12] [127.0.0.1] API key found.
+[2025-02-02 22:50:23] [12] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:50:23] [12] [127.0.0.1] API key valid.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:50:23] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Client found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:50:23] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:50:23] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:50:23] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:23] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:23] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:50:23] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:50:23] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:23] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:23] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:50:23] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:23] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:23] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:23] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:50:23] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:23] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:23] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:50:23] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:23] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:23] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:50:26] [2] [127.0.0.1] Received conversation ID from client: 2
+[2025-02-02 22:50:26] [2] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:50:26] [2] [127.0.0.1] Checking conversation ID: 2
+[2025-02-02 22:50:26] [2] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:50:26] [2] [127.0.0.1] Rows: 1
+[2025-02-02 22:50:26] [2] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:50:26] [2] [127.0.0.1] Conversation not blocked.
+[2025-02-02 22:50:26] [2] [127.0.0.1] End of discussion check.
+[2025-02-02 22:50:26] [2] [127.0.0.1] Returning result: true
+[2025-02-02 22:50:26] [2] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:50:26] [2] [127.0.0.1] Conversation selected: 2
+[2025-02-02 22:50:29] [2] [127.0.0.1] Received command from client: QUIT
+[2025-02-02 22:50:29] [2] [127.0.0.1] Received QUIT command from client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:50:29] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:29] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:29] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:50:29] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:50:29] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:50:29] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:29] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:29] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:50:29] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:29] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:29] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:50:31] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:50:31] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:50:31] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:50:34] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:50:34] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:50:35] [2] [127.0.0.1] Received api_key from client: 13
+
+[2025-02-02 22:50:35] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:50:35] [2] [127.0.0.1] Vérification API key: 13
+[2025-02-02 22:50:35] [2] [127.0.0.1] API key found.
+[2025-02-02 22:50:35] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:50:35] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:50:35] [13] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:50:35] [13] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:50:35] [13] [127.0.0.1] Admin key found.
+[2025-02-02 22:50:35] [13] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:50:35] [13] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:50:35] [13] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:50:35] [13] [127.0.0.1] EST BAN
+[2025-02-02 22:50:35] [13] [127.0.0.1] End of EST BAN
+[2025-02-02 22:50:35] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:50:35] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:50:35] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:50:35] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:50:35] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:50:35] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:50:35] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:50:35] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:50:35] [13] [127.0.0.1] User name found.
+[2025-02-02 22:50:35] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:50:35] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:50:36] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:50:36] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:50:36] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:50:36] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:50:36] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:50:36] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:50:36] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:50:36] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:51:01] [13] [127.0.0.1] Received conversation ID from client: BLOCK
+[2025-02-02 22:51:01] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:51:01] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:51:01] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:51:01] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:51:01] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:51:01] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:51:01] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:51:01] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:51:01] [13] [127.0.0.1] Received BLOCK command from client ADMIN.
+[2025-02-02 22:51:08] [13] [127.0.0.1] Pseudo to block: JonnniedDiscussion = 2 AND (12 = idClient OR 12 = idPro);
+[2025-02-02 22:51:08] [13] [127.0.0.1] Membre not found.
+[2025-02-02 22:51:22] [] [] Server started.
+[2025-02-02 22:51:22] [] [] Connected to the database successfully.
+[2025-02-02 22:51:22] [] [] Error binding socket.
+[2025-02-02 22:51:42] [] [] Server started.
+[2025-02-02 22:51:42] [] [] Connected to the database successfully.
+[2025-02-02 22:51:42] [] [] Error binding socket.
+[2025-02-02 22:52:18] [] [] Server started.
+[2025-02-02 22:52:18] [] [] Connected to the database successfully.
+[2025-02-02 22:52:18] [] [] Server is listening on port 4242
+[2025-02-02 22:52:21] [] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:52:21] [] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:52:24] [] [127.0.0.1] Received api_key from client: 13
+
+[2025-02-02 22:52:24] [] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:52:24] [] [127.0.0.1] Vérification API key: 13
+[2025-02-02 22:52:24] [] [127.0.0.1] API key found.
+[2025-02-02 22:52:24] [] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:52:24] [] [127.0.0.1] API key valid.
+[2025-02-02 22:52:24] [13] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:52:24] [13] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:52:24] [13] [127.0.0.1] Admin key found.
+[2025-02-02 22:52:24] [13] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:52:24] [13] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:52:24] [13] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:52:24] [13] [127.0.0.1] EST BAN
+[2025-02-02 22:52:24] [13] [127.0.0.1] End of EST BAN
+[2025-02-02 22:52:24] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:52:24] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:52:24] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:52:24] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:52:24] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:52:24] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:52:24] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:52:24] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:52:24] [13] [127.0.0.1] User name found.
+[2025-02-02 22:52:24] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:52:24] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:52:24] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:52:24] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:52:24] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:52:24] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:52:24] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:52:24] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:52:24] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:52:24] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:52:26] [13] [127.0.0.1] Received conversation ID from client: BLOCK
+[2025-02-02 22:52:26] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:52:26] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:52:26] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:52:26] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:52:26] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:52:26] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:52:26] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:52:26] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:52:26] [13] [127.0.0.1] Received BLOCK command from client ADMIN.
+[2025-02-02 22:52:29] [13] [127.0.0.1] Pseudo to block: Jonnnie
+[2025-02-02 22:52:29] [13] [127.0.0.1] BLOCK USER
+[2025-02-02 22:52:29] [13] [127.0.0.1] User blocked 2.
+[2025-02-02 22:52:29] [13] [127.0.0.1] End of BLOCK USER
+[2025-02-02 22:52:29] [13] [127.0.0.1] Discussion blocked.
+[2025-02-02 22:52:29] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:52:29] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:52:29] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:52:29] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:52:29] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:52:29] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:52:29] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:52:29] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:52:29] [13] [127.0.0.1] User name found.
+[2025-02-02 22:52:29] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:52:29] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:52:29] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:52:29] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:52:29] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:52:29] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:52:29] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:52:29] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:52:29] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:52:29] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:52:45] [13] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:52:45] [13] [127.0.0.1] Client disconnected.
+[2025-02-02 22:52:45] [13] [127.0.0.1] END OF MENU
+[2025-02-02 22:52:49] [13] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:52:49] [13] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:52:50] [13] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:52:50] [13] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:52:50] [13] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:52:51] [13] [127.0.0.1] API key found.
+[2025-02-02 22:52:51] [13] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:52:51] [13] [127.0.0.1] API key valid.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:52:51] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:52:51] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Client found.
+[2025-02-02 22:52:51] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:52:51] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:52:51] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:52:51] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:52:51] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:52:51] [2] [127.0.0.1] User blocked for 24h by ADMIN.
+[2025-02-02 22:53:07] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:53:07] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:53:09] [2] [127.0.0.1] Received api_key from client: 13
+
+[2025-02-02 22:53:09] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:53:09] [2] [127.0.0.1] Vérification API key: 13
+[2025-02-02 22:53:09] [2] [127.0.0.1] API key found.
+[2025-02-02 22:53:09] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:53:09] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:53:09] [13] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:53:09] [13] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:53:09] [13] [127.0.0.1] Admin key found.
+[2025-02-02 22:53:09] [13] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:53:09] [13] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:53:09] [13] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:53:09] [13] [127.0.0.1] EST BAN
+[2025-02-02 22:53:09] [13] [127.0.0.1] End of EST BAN
+[2025-02-02 22:53:09] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:09] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:09] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:53:09] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:09] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:09] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:09] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:53:09] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:09] [13] [127.0.0.1] User name found.
+[2025-02-02 22:53:09] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:53:09] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:09] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:09] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:09] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:09] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:09] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:53:09] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:09] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:09] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:53:13] [13] [127.0.0.1] Received conversation ID from client: UNBLOCK
+[2025-02-02 22:53:13] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:53:13] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:53:13] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:53:13] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:53:13] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:53:14] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:53:14] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:53:14] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:53:14] [13] [127.0.0.1] Received UNBLOCK command from client.
+[2025-02-02 22:53:16] [13] [127.0.0.1] Pseudo to unblock: Jonnnie
+[2025-02-02 22:53:16] [13] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:53:16] [13] [127.0.0.1] UNBLOCK USER
+[2025-02-02 22:53:16] [13] [127.0.0.1] User unblocked.
+[2025-02-02 22:53:16] [13] [127.0.0.1] End of UNBLOCK USER
+[2025-02-02 22:53:16] [13] [127.0.0.1] Discussion unblocked.
+[2025-02-02 22:53:16] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:16] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:16] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:53:16] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:16] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:16] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:16] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:53:16] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:16] [13] [127.0.0.1] User name found.
+[2025-02-02 22:53:16] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:53:16] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:16] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:16] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:16] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:16] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:16] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:53:16] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:16] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:16] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:53:22] [13] [127.0.0.1] Received conversation ID from client: BLOCK
+[2025-02-02 22:53:22] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:53:22] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:53:22] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:53:22] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:53:22] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:53:22] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:53:22] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:53:22] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:53:22] [13] [127.0.0.1] Received BLOCK command from client ADMIN.
+[2025-02-02 22:53:25] [13] [127.0.0.1] Pseudo to block: Jonnnie
+[2025-02-02 22:53:25] [13] [127.0.0.1] BLOCK USER
+[2025-02-02 22:53:25] [13] [127.0.0.1] User blocked 2.
+[2025-02-02 22:53:25] [13] [127.0.0.1] End of BLOCK USER
+[2025-02-02 22:53:25] [13] [127.0.0.1] Discussion blocked.
+[2025-02-02 22:53:25] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:25] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:25] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:53:25] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:25] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:25] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:25] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:53:25] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:25] [13] [127.0.0.1] User name found.
+[2025-02-02 22:53:25] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:53:25] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:25] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:25] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:25] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:25] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:25] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:53:25] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:25] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:25] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:53:29] [13] [127.0.0.1] Received conversation ID from client: UNBLOCK
+[2025-02-02 22:53:29] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:53:29] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:53:29] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:53:29] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:53:29] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:53:29] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:53:29] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:53:29] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:53:29] [13] [127.0.0.1] Received UNBLOCK command from client.
+[2025-02-02 22:53:32] [13] [127.0.0.1] Pseudo to unblock: Jonnnie
+[2025-02-02 22:53:32] [13] [127.0.0.1] Receiver ID: 2
+[2025-02-02 22:53:32] [13] [127.0.0.1] UNBLOCK USER
+[2025-02-02 22:53:32] [13] [127.0.0.1] User unblocked.
+[2025-02-02 22:53:32] [13] [127.0.0.1] End of UNBLOCK USER
+[2025-02-02 22:53:32] [13] [127.0.0.1] Discussion unblocked.
+[2025-02-02 22:53:32] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:32] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:32] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:53:32] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:32] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:32] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:32] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:53:32] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:32] [13] [127.0.0.1] User name found.
+[2025-02-02 22:53:32] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:53:32] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:32] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:32] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:32] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:32] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:32] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:53:32] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:32] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:32] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:53:41] [13] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:53:41] [13] [127.0.0.1] Client disconnected.
+[2025-02-02 22:53:41] [13] [127.0.0.1] END OF MENU
+[2025-02-02 22:53:45] [13] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:53:45] [13] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:53:47] [13] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:53:47] [13] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:53:47] [13] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:53:47] [13] [127.0.0.1] API key found.
+[2025-02-02 22:53:47] [13] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:53:47] [13] [127.0.0.1] API key valid.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:53:47] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Client found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:53:47] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:53:47] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:53:47] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:47] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:47] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:53:47] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:47] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:47] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:47] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:53:47] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:47] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:47] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:53:47] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:53:47] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:47] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:47] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:53:47] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:47] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:47] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:53:51] [2] [127.0.0.1] Error receiving id of the conversation selected from client.
+[2025-02-02 22:53:51] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:53:53] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:53:53] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:53:54] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:53:54] [2] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:53:54] [2] [127.0.0.1] API key found.
+[2025-02-02 22:53:54] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:53:54] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:53:54] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:53:54] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Client found.
+[2025-02-02 22:53:54] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:53:54] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:53:54] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:53:54] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:53:54] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:53:54] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:53:54] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:53:54] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:53:55] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:53:55] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:53:55] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:55] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:55] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:55] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:53:55] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:53:55] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:55] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:55] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:55] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:53:55] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:53:55] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:53:55] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:53:55] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:53:55] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:53:55] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:53:55] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:53:55] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:54:03] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:54:03] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:54:03] [2] [127.0.0.1] END OF MENU
+[2025-02-02 22:54:07] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:54:07] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:54:09] [2] [127.0.0.1] Received api_key from client: 13
+
+[2025-02-02 22:54:09] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:54:09] [2] [127.0.0.1] Vérification API key: 13
+[2025-02-02 22:54:09] [2] [127.0.0.1] API key found.
+[2025-02-02 22:54:09] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:54:09] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:54:09] [13] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:54:09] [13] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:54:09] [13] [127.0.0.1] Admin key found.
+[2025-02-02 22:54:09] [13] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:54:09] [13] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:54:09] [13] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:54:09] [13] [127.0.0.1] EST BAN
+[2025-02-02 22:54:09] [13] [127.0.0.1] End of EST BAN
+[2025-02-02 22:54:09] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:54:09] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:54:09] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:54:09] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:54:09] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:54:09] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:54:09] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:54:09] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:54:09] [13] [127.0.0.1] User name found.
+[2025-02-02 22:54:09] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:54:09] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:54:09] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:54:09] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:54:09] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:54:09] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:54:09] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:54:09] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:54:09] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:54:09] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:54:12] [13] [127.0.0.1] Received conversation ID from client: BAN
+[2025-02-02 22:54:12] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:54:12] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:54:12] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:54:12] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:54:12] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:54:12] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:54:12] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:54:12] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:54:12] [13] [127.0.0.1] Received BAN command from client.
+[2025-02-02 22:54:17] [13] [127.0.0.1] Pseudo to ban: Jonnnie
+[2025-02-02 22:54:17] [13] [127.0.0.1] BAN USER
+[2025-02-02 22:54:17] [13] [127.0.0.1] Fetching member ID.
+[2025-02-02 22:54:17] [13] [127.0.0.1] Member ID: 2
+[2025-02-02 22:54:17] [13] [127.0.0.1] Banning user.
+[2025-02-02 22:54:17] [13] [127.0.0.1] End of BLOCK USER
+[2025-02-02 22:54:17] [13] [127.0.0.1] User banned.
+[2025-02-02 22:54:17] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:54:17] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:54:17] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:54:17] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:54:17] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:54:17] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:54:17] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:54:17] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:54:17] [13] [127.0.0.1] User name found.
+[2025-02-02 22:54:17] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:54:17] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:54:17] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:54:17] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:54:17] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:54:17] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:54:17] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:54:17] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:54:17] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:54:17] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:54:21] [13] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:54:21] [13] [127.0.0.1] Client disconnected.
+[2025-02-02 22:54:21] [13] [127.0.0.1] END OF MENU
+[2025-02-02 22:54:25] [13] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:54:25] [13] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:54:27] [13] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:54:27] [13] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:54:27] [13] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:54:27] [13] [127.0.0.1] API key found.
+[2025-02-02 22:54:27] [13] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:54:27] [13] [127.0.0.1] API key valid.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:54:27] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:54:27] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Client found.
+[2025-02-02 22:54:27] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:54:27] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:54:27] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:54:27] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:54:27] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:54:27] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:54:27] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:54:27] [2] [127.0.0.1] User Banned.
+[2025-02-02 22:54:45] [2] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:54:45] [2] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:54:47] [2] [127.0.0.1] Received api_key from client: 13
+
+[2025-02-02 22:54:47] [2] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:54:47] [2] [127.0.0.1] Vérification API key: 13
+[2025-02-02 22:54:47] [2] [127.0.0.1] API key found.
+[2025-02-02 22:54:47] [2] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:54:47] [2] [127.0.0.1] API key valid.
+[2025-02-02 22:54:47] [13] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:54:47] [13] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:54:47] [13] [127.0.0.1] Admin key found.
+[2025-02-02 22:54:47] [13] [127.0.0.1] Account type: ADMIN
+[2025-02-02 22:54:47] [13] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:54:47] [13] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:54:47] [13] [127.0.0.1] EST BAN
+[2025-02-02 22:54:47] [13] [127.0.0.1] End of EST BAN
+[2025-02-02 22:54:47] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:54:47] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:54:47] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:54:47] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:54:47] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:54:47] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:54:47] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:54:47] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:54:47] [13] [127.0.0.1] User name found.
+[2025-02-02 22:54:47] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:54:47] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:54:47] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:54:47] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:54:47] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:54:47] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:54:47] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:54:47] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:54:47] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:54:47] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:54:50] [13] [127.0.0.1] Received conversation ID from client: UNBAN
+[2025-02-02 22:54:50] [13] [127.0.0.1] VALID CONVERSATION
+[2025-02-02 22:54:50] [13] [127.0.0.1] Checking conversation ID: 0
+[2025-02-02 22:54:50] [13] [127.0.0.1] Discussion fetched.
+[2025-02-02 22:54:50] [13] [127.0.0.1] Rows: 0
+[2025-02-02 22:54:50] [13] [127.0.0.1] Checking if conversation is blocked.
+[2025-02-02 22:54:50] [13] [127.0.0.1] End of discussion check.
+[2025-02-02 22:54:50] [13] [127.0.0.1] Returning result: false
+[2025-02-02 22:54:50] [13] [127.0.0.1] End of VALID CONVERSATION
+[2025-02-02 22:54:50] [13] [127.0.0.1] Received UNBAN command from client.
+[2025-02-02 22:54:52] [13] [127.0.0.1] Pseudo to unban: Jonnnie
+[2025-02-02 22:54:52] [13] [127.0.0.1] UNBAN USER
+[2025-02-02 22:54:52] [13] [127.0.0.1] Fetching member ID.
+[2025-02-02 22:54:52] [13] [127.0.0.1] Member ID: 2
+[2025-02-02 22:54:52] [13] [127.0.0.1] Unbanning user.
+[2025-02-02 22:54:52] [13] [127.0.0.1] End of UNBAN USER
+[2025-02-02 22:54:52] [13] [127.0.0.1] User unbanned.
+[2025-02-02 22:54:52] [13] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:54:52] [13] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:54:52] [13] [127.0.0.1] Fetching discussions for user 13
+[2025-02-02 22:54:52] [13] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:54:52] [13] [127.0.0.1] Discussions for user:
+[2025-02-02 22:54:52] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:54:52] [13] [127.0.0.1] Fetching user name for user 2
+[2025-02-02 22:54:52] [13] [127.0.0.1] User name fetched.
+[2025-02-02 22:54:52] [13] [127.0.0.1] User name found.
+[2025-02-02 22:54:52] [13] [127.0.0.1] User name: Jonnnie
+[2025-02-02 22:54:52] [13] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:54:52] [13] [127.0.0.1] New messages found: 0
+[2025-02-02 22:54:52] [13] [127.0.0.1] End of new messages check.
+[2025-02-02 22:54:52] [13] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:54:52] [13] [127.0.0.1] No new messages found.
+[2025-02-02 22:54:52] [13] [127.0.0.1] Sending conversation: Discussion ID: 1   | Jonnnie
+[2025-02-02 22:54:52] [13] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:54:52] [13] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:54:52] [13] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:54:56] [13] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:54:56] [13] [127.0.0.1] Client disconnected.
+[2025-02-02 22:54:56] [13] [127.0.0.1] END OF MENU
+[2025-02-02 22:54:58] [13] [127.0.0.1] New client connected: 127.0.0.1
+[2025-02-02 22:54:58] [13] [127.0.0.1] Waiting for client connection.
+[2025-02-02 22:55:00] [13] [127.0.0.1] Received api_key from client: 2
+
+[2025-02-02 22:55:00] [13] [127.0.0.1] VERIF CONNEXION APIKEY
+[2025-02-02 22:55:00] [13] [127.0.0.1] Vérification API key: 2
+[2025-02-02 22:55:00] [13] [127.0.0.1] API key found.
+[2025-02-02 22:55:00] [13] [127.0.0.1] End of VERIF CONNEXION APIKEY
+[2025-02-02 22:55:00] [13] [127.0.0.1] API key valid.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Unlocking the account if 24h passed.
+[2025-02-02 22:55:00] [2] [127.0.0.1] VERIFIER TYPE COMPTE FOR MENU
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checking in _professionnel.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checked in _professionnel.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Professional not found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checking in _membre.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Client found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Account type: MEMBRE
+[2025-02-02 22:55:00] [2] [127.0.0.1] EST BLOQUE
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of EST BLOQUE
+[2025-02-02 22:55:00] [2] [127.0.0.1] EST BAN
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of EST BAN
+[2025-02-02 22:55:00] [2] [127.0.0.1] BEGINNING OF MENU
+[2025-02-02 22:55:00] [2] [127.0.0.1] SEND CONVERSATION LIST
+[2025-02-02 22:55:00] [2] [127.0.0.1] Fetching discussions for user 2
+[2025-02-02 22:55:00] [2] [127.0.0.1] Discussions fetched.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Discussions for user:
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Client ID: 2 | Pro ID: 13
+[2025-02-02 22:55:00] [2] [127.0.0.1] Fetching user name for user 13
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name: Modem Nicola
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:55:00] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:55:00] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 1   | Modem Nicola
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Client ID: 2 | Pro ID: 8
+[2025-02-02 22:55:00] [2] [127.0.0.1] Fetching user name for user 8
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name: Jon Halford
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:55:00] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:55:00] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 3   | Jon Halford
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Client ID: 2 | Pro ID: 12
+[2025-02-02 22:55:00] [2] [127.0.0.1] Fetching user name for user 12
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name fetched.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] User name: Portimao Jean-Jacques
+[2025-02-02 22:55:00] [2] [127.0.0.1] Checking for new messages.
+[2025-02-02 22:55:00] [2] [127.0.0.1] New messages found: 0
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of new messages check.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Composing conversation message.
+[2025-02-02 22:55:00] [2] [127.0.0.1] No new messages found.
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation: Discussion ID: 2   | Portimao Jean-Jacques
+[2025-02-02 22:55:00] [2] [127.0.0.1] Sending conversation to client.
+[2025-02-02 22:55:00] [2] [127.0.0.1] End of SEND CONVERSATION LIST
+[2025-02-02 22:55:00] [2] [127.0.0.1] Conversation list sent.
+[2025-02-02 22:55:12] [2] [127.0.0.1] Received conversation ID from client: QUIT
+[2025-02-02 22:55:12] [2] [127.0.0.1] Client disconnected.
+[2025-02-02 22:55:12] [2] [127.0.0.1] END OF MENU
