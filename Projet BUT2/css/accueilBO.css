@@ -1,0 +1,1564 @@
+/* ========================================================= */
+/*                 CHANGEMENT PAGE DESKTOP/MOBILE            */
+/* ========================================================= */
+
+/* Pour les écrans de 800px ou moins (version mobile) */
+@media (max-width: 800px) {
+    .phone-element {
+      display: block; /* Si tu veux les afficher, ou garde "none" si tu veux les cacher */
+    }
+  
+    .desktop-element {
+      display: none;
+    }
+  }
+  
+  /* Pour les écrans de plus de 800px (version desktop) */
+  @media (min-width: 801px) {
+    .desktop-element {
+      display: block; /* Affiche les éléments desktop */
+    }
+  
+    .phone-element {    
+      display: none;
+    }
+
+    html {
+        scrollbar-gutter: stable;
+      }
+      
+  }
+  
+
+
+
+/* ========================================= */
+/*                 STYLES GLOBAUX            */
+/* ========================================= */
+
+
+@media (max-width: 800px) {
+    main {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 24px;
+    }
+
+    .main-content {
+        padding: 0 !important;
+    }
+    
+}
+
+
+@media (min-width: 801px) {
+    main {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 50px;
+        margin: 24px;
+    }
+}
+
+
+
+
+header + nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav_space {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Aligne verticalement le contenu */
+    justify-content: space-between; /* Espace entre les éléments */
+
+    padding: 0 25px 0 14px;
+}
+
+.space-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+p {
+    font-family: 'TripSansRegular', 'Arial';
+}
+
+/* ========================================= */
+/*          STYLES DE LA ZONE DE RECHERCHE   */
+/* ========================================= */
+
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid #D9D9D9;
+    border-radius: 20px;
+    width: 300px;
+    height: fit-content;
+    padding: 15px;
+    margin: 10px;
+}
+
+.search > img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.search > input {
+    color: var(--noir);
+    border: none;
+    font-size: 1.2em;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
+
+/* ========================================= */
+/*          STYLES POUR FILTRER ET TRIER     */
+/* ========================================= */
+
+.filtrer-trier {
+    display: flex; /* Affiche les boutons dans une ligne */
+    flex-direction: row; /* Aligne les éléments horizontalement */
+    align-items: center; /* Centre verticalement les éléments */
+    gap: 20px;
+}
+
+.trier {
+    display: flex; /* Affiche les boutons dans une ligne */
+    flex-direction: row; /* Aligne les éléments horizontalement */
+    justify-content: space-between; /* Espace entre les boutons */
+    align-items: center; /* Centre verticalement les éléments */
+    
+    border: 1px solid #E6E6E6;
+    border-radius: 8px;
+
+    width: 220px;
+    height: fit-content;
+    
+    padding: 15px;
+    margin: 10px;
+}
+
+.trier:hover, .search:hover {
+    border: 1px solid #D9D9D9;
+    box-shadow: 0 0 0 1px rgba(217, 217, 217, 0.5);
+    transition: 0.3s all;
+}
+
+.filtrer-bouton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    align-self: center;
+    transition: all .27s ease;
+}
+
+.filtrer-bouton:hover {
+    cursor: pointer;
+    background-color: #F5F5F5;
+}
+
+.filtrer-trier div {
+    display: flex; /* Pour les éléments internes */
+    align-items: center; /* Centre verticalement le texte et l'image */
+    gap: 12px; /* Espacement entre le texte et l'image */
+}
+
+.filtrer-trier div p {
+    color: #737373;
+    margin: 0; /* Supprime les marges par défaut du texte */
+}
+
+.trier img {
+    width: 12px;
+    height: 12px;
+    object-fit: contain;
+}
+
+.filtrer-bouton img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.sensTris img {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    
+    transition: 0.3s all;
+}
+
+.sensTris {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    width: 45px;
+    height: 45px;
+    border-radius: 8px;
+
+    margin-left: -20px;
+
+}
+
+
+/* ============================================= */
+/*           STYLES POUR LES FILTRES             */
+/* ============================================= */
+
+/* Styles pour l'animation de descente de la page */
+main {
+    transform: translateY(0);
+}
+
+main.active_filter {
+    transform: translateY(170px);
+    transition: all 0.3s ease-in-out;
+    
+}
+
+.all-filter {
+    display: none;
+    width: fit-content;
+    height: 180px;
+    margin: 0 auto 20px auto;
+}
+
+.all-filter.active {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    
+    transform: translateY(0);
+    transition: all 0.3s ease-in-out;
+
+    border: 1px solid #E6E6E6;
+    border-radius: 10px;
+}
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+
+
+    width: fit-content;
+    height: 100%;
+    padding: 0 30px;
+    margin: 0 25px inherit 12.5px;
+
+    border-right: 1px solid #E6E6E6;
+
+    transform: translateY(-20px);
+    opacity: 0;
+    transition: all 0.2s ease;
+}
+
+.filter:last-child {
+    border-right: none;
+}
+
+.filter.show {
+
+    transform: translateY(0);
+    transition: translateY 0.15s ease;
+    opacity: 1;
+}
+
+.filter p {
+    width: 100%;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #595959;
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+/* ============================================= */
+/*           STYLES POUR LES FILTRES DE TYPE     */
+/* ============================================= */
+
+
+.filtre-type {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    gap: 5px;
+}
+
+.filtre-case label {
+    color: #595959;
+    align-self: center;
+}
+
+.filtre-case {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+
+/* ============================================= */
+/*           STYLES POUR LES FILTRES DE LIEU     */
+/* ============================================= */
+
+
+.search-filter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #D9D9D9;
+    border-radius: 20px;
+    width: 170px;
+    height: fit-content;
+    padding: 10px 15px;
+}
+
+.search-filter > img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+
+.search-filter > input {
+    color: var(--noir);
+    border: none;
+}
+
+.filtre-lieu {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.filtre-lieu-case {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    overflow-y: scroll;
+    max-height: 80px;
+}
+
+/* ========================================= */
+/*       STYLES POUR LES FILTRES DE TEMPS    */
+/* ========================================= */
+
+.filtre-temps {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+
+}
+
+#calendar-start, #calendar-end {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 5px;
+    
+    border-radius: 5px;
+    
+    padding: 10px;
+}
+
+#calendar-start label, #calendar-end label {
+    border-bottom: 1px solid var(--gris-clair);
+    width: fit-content;
+    color: #595959;
+    font-size: 0.8em;
+    padding-bottom: 7px;
+
+}
+
+input#date-end, input#date-start {
+    border: none;
+    background-color: rgba(118, 118, 118, 0.04);
+    
+    width: 100%;
+
+    padding: 5px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+}
+
+
+
+/* ========================================= */
+/*       STYLES POUR LES FILTRES DE PRIX     */
+/* ========================================= */
+
+.filtre-prix {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 8px;
+
+}
+
+.slider-container {
+    width: 200px;
+    position: relative;
+    margin: 20px 15px 30px 15px;
+}
+
+input[type="range"] {
+    position: absolute;
+    width: 100%;
+    -webkit-appearance: none;
+    appearance: none;
+    background: none;
+    pointer-events: none; /* Empêche les événements sur la barre */
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 6px;
+    background: #ddd;
+    border-radius: 3px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000;
+    cursor: pointer;
+    position: relative;
+    pointer-events: all; /* Autorise les interactions uniquement sur le bouton */
+    z-index: 3;
+}
+
+#slider-right::-webkit-slider-thumb {
+    z-index: 4; /* Le slider droit reste au-dessus */
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000;
+    cursor: pointer;
+    position: relative;
+    pointer-events: all;
+    z-index: 3;
+}
+
+input[type="range"]::-ms-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000;
+    cursor: pointer;
+    position: relative;
+    pointer-events: all;
+    z-index: 3;
+}
+
+/* Style pour montrer la plage active entre les deux curseurs */
+/* .range-active {
+    position: absolute;
+    height: 6px;
+    background-color: #2196F3;
+    z-index: 2;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 3px;
+} */
+
+/* Position des valeurs sous les curseurs */
+.value-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+#value-left, #value-right {
+    font-size: 14px;
+    background-color: #fff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    position: absolute;
+    top: 20px;
+    width: fit-content;
+}
+
+#value-left {
+    left: 0;
+}
+
+#value-right {
+    right: 0;
+}
+
+/* ========================================= */
+/*         STYLES POUR LES FILTRES DE NOTE   */
+/* ========================================= */
+
+.filtre-note {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.note {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.etoileNoteFiltre {
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
+
+.etoileNoteFiltre img {
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+}
+
+
+/* ========================================= */
+/*         STYLES POUR OUVERT/FERMEE         */
+/* ========================================= */
+
+
+
+.filtre-ouvert {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+
+.filtre-ouvert div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+/* ========================================= */
+/*         STYLES POUR LE MENU DÉROULANT     */
+/* ========================================= */
+
+.dropdown {
+    position: relative; /* Pour positionner le sous-menu */
+}
+
+
+.dropdown-menu {
+    display: none; /* Masqué par défaut */
+    position: absolute;
+    top: 100%; /* Positionne juste en dessous du bouton */
+    left: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    width: 80%;
+    padding: 0;
+    margin: 0 0 0 10%;
+    list-style: none;
+    opacity: 0; /* Masqué par défaut */
+    transition: opacity 3s ease; /* Transition pour l'animation de la boîte */
+}
+
+.dropdown-menu.show {
+    display: block; /* Montre le menu lorsqu'il est actif */
+    opacity: 1; /* Rendre visible */
+}
+
+/* Styles pour les éléments de la liste */
+.dropdown-menu li {
+    opacity: 0; /* Masqué par défaut */
+    transform: translateY(-10px); /* Déplace légèrement vers le haut */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Transition pour l'animation des éléments */
+    padding: 16px;
+    border-bottom: 1px solid #eee;
+}
+
+.dropdown-menu li.show {
+    opacity: 1; /* Rendre visible */
+    transform: translateY(0); /* Remet à la position normale */
+}
+
+.dropdown-menu li:last-child {
+    border-bottom: none; /* Pas de bordure pour le dernier élément */
+}
+
+
+.dropdown-menu li:last-child.active {
+    border-bottom-left-radius: 8px;
+}
+
+.dropdown-menu li:first-child.active {
+    border-top-left-radius: 8px;
+}
+
+.dropdown-menu a {
+    text-decoration: none;
+    color: #737373;
+    display: block; /* S'étend sur toute la largeur */
+}
+
+.dropdown-menu li:hover {
+    background-color: #f0f0f0; /* Fond au survol */
+}
+
+
+/* Affiche le menu lorsque le parent a la classe 'active' */
+.dropdown.active .dropdown-menu {
+    display: block;
+}
+
+/* ========================================= */
+/*         STYLES POUR NOUVEAU ET À LA UNE   */
+/* ========================================= */
+
+.NouveauALaUne {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    gap: 4px;
+}
+
+.NouveauALaUne div {
+    align-items: center; /* Centrer verticalement le texte et l'image */
+    gap: 8px; /* Espacement entre le texte et l'image */
+    background-color: #F5F5F5;
+    border-radius: 8px;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px 8px; /* Espacement intérieur pour le texte */
+    margin: 2px; 
+
+    /* border: 0.125em solid #1A1A1A;
+    border-radius: 0.9375em; */
+    box-sizing: border-box; 
+    cursor: pointer;
+    display: inline-block;
+    line-height: normal;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    will-change: transform;
+}
+
+.NouveauALaUne div:hover {
+    box-shadow: none;
+    transform: translateY(0);
+    animation: bounce 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+
+}
+
+@keyframes bounce {
+    0% { transform: scale(1); }
+    30% { transform: scale(1.05) rotate(2deg); }
+    50% { transform: scale(0.95) rotate(2deg); }
+    70% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+  }
+   
+.NouveauALaUne div.active {
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.NouveauALaUne div p {
+    margin: 0; /* Supprimer les marges par défaut du texte */
+    color: #757575;
+}
+
+.NouveauALaUne div img.show {
+    display: block; /* Affiche l'image lorsque la classe 'show' est ajoutée */
+}
+
+.NouveauALaUne div.active p {
+    color: #F5F5F5; /* Couleur du texte en mode actif */
+}
+
+@media (max-width: 800px) {
+    /* Conteneur pour les boutons */
+.boutons-navigation {
+    display: flex;
+    justify-content: center; /* Centre les boutons horizontalement */
+    gap: 10px; /* Espacement entre les boutons */
+    margin: 10px;
+}
+
+/* Style des boutons */
+.boutonALaUne, .boutonNouveau {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px; /* Largeur des boutons */
+    height: 50px; /* Hauteur des boutons */
+    background-color: var(--gris-clair); /* Couleur par défaut */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Texte des boutons */
+.boutonALaUne p, .boutonNouveau p {
+    font-family: 'TripSansBold';
+    color: var(--noir); /* Couleur du texte par défaut */
+    margin: 0;
+}
+
+/* Bouton actif */
+.boutonALaUne.active, .boutonNouveau.active {
+    background-color: var(--turquoise-orange); /* Couleur de fond lorsqu'actif */
+    color: white; /* Couleur du texte lorsqu'actif */
+}
+
+/* Texte du bouton actif */
+.boutonALaUne.active p, .boutonNouveau.active p {
+    color: white;
+}
+}
+/* =========================================================== */
+/*           STYLES POUR CHACUNE DES OFFRES (DESKTOP)          */
+/* =========================================================== */
+
+@media (min-width: 801px) {
+
+    .carte_offre {
+        /* margin: 24px; */
+        width: 240px;
+        min-height: 320px;
+        height: auto;
+        min-width: 240px;
+        border: 1px solid #D9D9D9;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-grow: 1;
+        gap: 200px;
+        border-radius: 15px;
+    }
+
+    .carte_offre div.alaune {
+        position: absolute;
+        z-index: 4;
+        
+        background-color: plum;
+        
+        width: fit-content;
+        height: fit-content;
+
+        padding: 5px 10px;
+        margin: 10px 10px;
+        
+        border-radius: 50px;
+    }
+
+    .carte_offre div.alaune p {
+        color: rgb(94, 8, 94);
+        font-size: 1em;
+        font-weight: bold;
+    }
+    
+    .carte_offre div.ReliefIMG {
+        position: absolute;
+        z-index: 3;
+        width: fit-content;
+        height: fit-content;
+        /* top: -10px;
+        left: -10px; */
+        margin-top: -10px;
+        margin-left: -10px;
+
+        /** NE PAS METTRE DE POSITION POUR QUE LES ABSOLUTES FONCTIONNENT !!!! **/
+    }
+    
+    .carte_offre div.ReliefIMG img {
+        width: 120px !important;
+        height: 120px !important;
+        object-fit: cover;
+    }
+
+.carte_offre img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 15px 15px 0 0;
+    margin-bottom: 10px;
+}
+
+.carte_offre .infoAnnonce, .carte_offre .titreAnnonce {
+    margin-left: 8px;
+}
+
+.carte_offre .infoAnnonce {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 15px;
+}
+
+.carte_offre .infoAnnonce p {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.carte_offre .infoAnnonce .textAvis {
+    font-weight: normal;
+}
+
+.carte_offre .infoAnnonce .etoileNote {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 3px;
+}
+
+.carte_offre .infoAnnonce .etoileNote img {
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+    margin: 1px 0;
+}
+
+
+.carte_offre a {
+    text-decoration: none;
+}
+
+.phone-element, .mobile-footer{
+    display: none;
+}
+
+.enRelief {
+    /* background-image: url(../images/gold.jpg);
+    background-size: cover;
+    background-position: center; */
+    /* background-color: rgba(255, 255, 74, 0.3); */
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+}
+
+.carte_offre.lol {
+    background-image: url(../images/gold.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+    animation: rainbowShadow 2s infinite;
+}
+
+@keyframes rainbowShadow {
+    0% {
+        box-shadow: 0 0 50px rgba(255, 0, 0, 1); /* Rouge */
+    }
+    25% {
+        box-shadow: 0 0 50px rgba(0, 255, 0, 1); /* Vert */
+    }
+    50% {
+        box-shadow: 0 0 50px rgba(0, 0, 255, 1); /* Bleu */
+    }
+    75% {
+        box-shadow: 0 0 50px rgba(255, 255, 0, 1); /* Jaune */
+    }
+    100% {
+        box-shadow: 0 0 50px rgba(255, 0, 255, 1); /* Magenta */
+    }
+}
+
+.etoileALaUne {
+    width: 50px !important;
+    height: 50px !important;
+    object-fit: cover !important;
+    margin: -15px -20px;
+    position: absolute !important;
+    z-index: 1 !important;
+    /* box-shadow: 6px 5px 20px 5px rgba(0,0,0,0.25);
+    background-color: rgba(0, 0, 0, 0.20);
+    border-radius: 100%; */
+}
+
+.carte_offre:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-1.5px);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+
+.sensTris:hover {
+    cursor: pointer;
+    background-color: #F5F5F5;
+
+}
+
+}
+
+/* =========================================================== */
+/*           STYLES POUR LA PAGE ACCUEIL MOBILE                */
+/* =========================================================== */
+
+@media screen and (max-width: 800px) {
+
+    .carte_offre div.alaune {
+        position: absolute;
+        z-index: 4;
+        
+        background-color: plum;
+        
+        width: fit-content;
+        height: fit-content;
+
+        padding: 5px 10px;
+        margin: 150px 0 20px 0;
+        
+        border-radius: 50px;
+    }
+
+    .carte_offre div.alaune p {
+        color: rgb(94, 8, 94);
+        font-size: 1em;
+        font-weight: bold;
+    }
+
+
+    .nav_space {
+        flex-direction: column; /* Change la direction en colonne pour les petits écrans */
+    }
+    
+    .filtrer-trier.mobile {
+        flex-direction: column; /* Change la direction en colonne pour les petits écrans */
+    }
+
+
+    .all-filter.mobile {
+        height: fit-content;
+        flex-direction: column; /* Change la direction en colonne pour les petits écrans */
+        flex-wrap: wrap;
+        margin-bottom: 80px;
+        width: 100%; /* Changement pour que les filtres mobiles prennent toute la largeur même fermés */
+    }
+
+    .sensTris img {
+        width: 20px;
+        height: 20px;
+        object-fit: contain;
+        
+        transition: 0.3s all;
+    }
+    
+    .sensTris {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+    
+        margin-left: -20px;
+    
+    }
+
+    div.phone-element  {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .carte_offre img {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+        overflow: hidden;
+    }
+
+    .desktop-element {
+        display: none !important;
+    }
+
+    .all-filter.desktop {
+        display: none;
+    }
+
+
+    .carte_offre a {
+        text-decoration: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 5px; /* Réduction de l'espace entre les éléments */
+        max-height: 150px; /* Ajuste selon la taille que tu souhaites */
+        overflow: hidden; /* Cache le texte qui dépasse */
+    }
+
+    .noteAnnonce > img {
+        width: 12px;
+        height: 12px;
+        object-fit: cover;
+    }
+
+    .carte_offre.phone-element {
+        background-color: white;
+        border: 1px solid var(--bleuFonce-rougeFonce);
+        border-radius: 8px;
+        padding: 25px; /* Augmentation du padding pour agrandir l'espace entre le contenu et la bordure */
+        max-width: 550px; /* Case légèrement plus grande */
+        width: 80%; /* Légère augmentation de la largeur pour équilibrer */
+        margin: 20px auto; /* Ajustement de la marge externe */
+      }
+      
+      .titreAnnonce {
+        font-size: 1.1rem; /* Taille de la police inchangée */
+        color: var(--bleuFonce-rougeFonce);
+        font-family: 'TripSansBold';
+        margin-bottom: 3px; /* Moins d'espace en dessous */
+      }
+      
+      .resumeAnnonce {
+        font-size: 0.8rem; /* Taille de la police inchangée */
+        color: #333;
+        font-family: 'TripSansRegular';
+        margin-bottom: 3px; /* Moins d'espace en dessous */
+        overflow: hidden;
+        text-overflow: ellipsis; /* Ajoute "..." à la fin du texte qui dépasse */
+        display: -webkit-box;
+        -webkit-line-clamp: 3; /* Limite le texte à 3 lignes */
+        -webkit-box-orient: vertical;
+      }
+      
+      .villeAnnonce {
+        font-size: 0.7rem; /* Taille de la police inchangée */
+        color: #666;
+        font-family: 'TripSansRegular';
+        margin-bottom: 0; /* Pas d'espace en dessous */
+      }
+      
+      .etoileNote {
+        font-size: 1rem; /* Taille des étoiles inchangée */
+        color: var(--bleu-rouge);
+        font-family: 'TripSansBold';
+        text-align: center;
+        align-self: start;
+        margin-bottom: 2px; /* Réduction de l'espace entre les étoiles et l'image */
+      }
+      
+      .conteneurImage {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+      }
+      
+      .conteneurImage > img {
+        width: 100px; /* Taille de l'image inchangée */
+        max-height: 60px;
+        border-radius: 8px;
+        padding: 0;
+        margin: 0;
+      }
+
+    .main-content {
+        margin-left: 0 !important;
+    }
+
+    .InfoOffreMobile {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 8px;
+    }
+
+    .NoteImageOffreMobile {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+    }
+
+    .etoileNote {
+        display: flex;
+        flex-direction: row;
+        gap: 3px;
+        margin-left: 6px;
+    }
+
+    .etoileNote img {
+        width: 15px;
+        height: 15px;
+        object-fit: cover;
+    }
+
+    .etoileALaUne {
+        width: 50px !important;
+        height: 50px !important;
+        object-fit: cover !important;
+        margin: 0 0 164 -48 !important;
+        position: absolute !important;
+        z-index: 1 !important;
+        /* box-shadow: 6px 5px 20px 5px rgba(0,0,0,0.25);
+        background-color: rgba(0, 0, 0, 0.20);
+        border-radius: 100%; */
+    }
+
+    
+    .enRelief {
+        border: none ;
+        border-image: url(../images/gold.jpg) 1 !important;
+        border-width: 5px !important;
+        padding: 20px;
+        border-radius: 80px !important;
+    }
+    
+    
+   
+    
+}
+
+
+/* =========================================================== */
+/*                     STYLES POUR LA POP-UP                   */
+/* =========================================================== */
+
+
+.popup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    background-color: var(--gris-clair);
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    
+    padding: 10px 20px;
+    opacity: 0;
+    transform: translateX(20px);
+    transition: opacity 0.4s, transform 0.4s;
+    z-index: 10;
+}
+
+.popup-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    gap: 5px;
+}
+
+.popup-text p {
+    color: var(--noir);
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.popup-text p+p {
+    color: var(--noir);
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.popup a {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+
+    background-color: var(--bleu-rouge);
+    color: var(--blanc);
+    
+    text-decoration: none;
+
+    padding: 10px 25px;
+    margin: 0 10px;
+
+    border-radius: 5px;
+}
+
+.popup a:hover {
+    background-color: var(--bleuFonce-rougeFonce);
+    transition: 0.4s;
+}
+
+.popup img {
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+
+    cursor: pointer;
+
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    
+    padding: 1.5px;
+
+    background-color: var(--noir);
+
+    border: 1px solid var(--blanc);
+    border-radius: 25px;
+}
+
+/* Lorsque la pop-up est visible */
+.popup.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.suggestions {
+    position: absolute;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0 0;
+    z-index: 1000;
+    max-height: 200px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.suggestions li {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.suggestions li:hover {
+    background: #f0f0f0;
+}
+
+.suggestion-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+
+.close-icon {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
+
+.close-icon:hover {
+    width: 20px;
+    height: 20px;
+    transition: 0.2s;
+}
+
+
+/* =========================================================== */
+/*                    STYLES POUR LA CARTE                     */
+/* =========================================================== */
+
+#carte {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translateY(0);
+
+    
+    border: none !important;
+}
+
+#carte.active_filter {
+    transform: translateY(170px);
+    transition: all 0.3s ease-in-out;
+}
+
+#carte #map {
+    height: 400px;
+    width: 97%;
+    
+    border-radius: 15px;
+    /* padding: 0 20px; */
+    z-index: 0;
+
+    transition: height 0.4s ease-in;
+}
+
+#carte #map.cache {
+    height: 0;
+}
+
+#carte #map.cache + #arrow_carte img {
+    transform: rotate(90deg);
+    transition: transform 0.2s ease-in-out;
+}
+
+#carte #map.cache + #arrow_carte:hover img {
+    transform: scale(1.3) rotate(90deg);
+    transition: transform 0.3s ease-in-out;
+}
+
+#carte #arrow_carte {
+    width: 10%;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    border: 2px  solid #D9D9D9;
+    border-top: none;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+    cursor: pointer;
+
+    transition: all 0.4s ease-in;
+}
+
+#carte #arrow_carte:hover img {
+    transform: scale(1.3) rotate(-90deg);
+}
+
+#carte #arrow_carte img {
+    width: 60px;
+    height: 60px;
+    
+    object-fit: cover;
+
+    transition: transform 0.3s ease-in-out;
+}
+
+
+/* =========================================================== */
+/*                    DESIGN DES POP-UP                        */
+/* =========================================================== */
+.popupCarte {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.popup-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: Arial, sans-serif;
+    
+    padding: 8px;
+    
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.popup-left {
+    flex-shrink: 0;
+}
+
+.popup-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.popup-center {
+    flex: 1;
+    padding: 0 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+
+    width: fit-content;
+    min-height: 100px;
+}
+
+.popup-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    max-height: 50px;
+    width: 100%;
+    padding: 0;
+
+}
+
+.popup-right-stars {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    height: fit-content;
+
+    margin-bottom: -25px;
+}
+
+.popup-right-open {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.popup-address-lien {
+    /* text-decoration: none; */
+    cursor: pointer;
+}
+
+.popup-address {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    max-height: 50px;
+
+    gap: 7px;
+}
+
+.popup-voie, .popup-ville,
+.popup-desc {
+    font-size: 12px;
+    margin: 0 !important;
+    color: #555;
+
+}
+
+.popup-stars {
+    display: flex;
+    gap: 2px;
+    height: 14px;
+}
+
+.popup-star {
+    width: 14px;
+    height: 14px;
+    margin: 0;
+}
+
+.popup-price {
+    height: 14px;
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--bleuFonce-rougeFonce);
+}
+
+.popup-status {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.popup-status.ouvert {
+    color: #28a745;
+}
+
+.popup-status.ferme {
+    color: #d9534f;
+}
+
+.popup-extra-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100px;
+    /* max-width: 200px; */
+
+    color: var(--bleuFonce-rougeFonce);
+    
+    padding: 8px 12px;
+
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    
+    transition: transform 0.2s;
+}
+
+.popup-extra-mobile:hover {
+    transform: translateY(-2px);
+}
+
+.popupCarte a {
+    text-decoration: none;
+}
+
+.popup-extra-mobile img {
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+    margin-left: 5px;
+}
+
+.popup-extra-mobile-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}

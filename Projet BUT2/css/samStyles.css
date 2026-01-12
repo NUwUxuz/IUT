@@ -1,0 +1,2027 @@
+
+
+@font-face {
+  font-family: 'TripSansBold';
+  src: url('../polices/TripSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TripSansRegular';
+  src: url('../polices/TripSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TripSansUltra';
+  src: url('../polices/TripSans-Ultra.ttf') format('truetype');
+}
+
+
+@media (min-width: 801px) {
+
+  .phone-element {
+    display: none;
+  }
+
+  .body {
+    display: flex;
+    flex-direction: row;
+}
+
+.titre-rouge {
+    font-size: 3vw;
+    color: var(--bleuFonce-rougeFonce);
+    font-family: 'TripSansBold';
+    width: 85%;
+    margin: 0;
+}
+
+.sous-titre {
+    font-size: 1vw;
+    color: black;
+    font-family: 'TripSansRegular';
+    width: 80%;
+    margin: 0;
+}
+
+/* Définition d'un container pour gérer l'affichage */
+.container {
+  overflow: hidden;
+  /* Cache les éléments qui dépassent du container */
+  height: 25vw;
+  /* Hauteur égale à 50% de la hauteur de la vue */
+  flex-wrap: nowrap;
+  /* Empêche les éléments de se placer sur plusieurs lignes */
+  width: 85%;
+  /* Largeur égale à 80% de la largeur de la vue */
+  margin-top: 10px;
+}
+/* Définition du carousel */
+.carousel {
+  position: relative;
+  /* Le carousel est positionné relativement à son parent */
+}
+/* Définition de l'élément contenant les diapositives */
+.carousel-inner {
+  display: flex;
+  /* Affiche les éléments en ligne */
+  overflow: hidden;
+  /* Cache les éléments qui dépassent */
+  height: 25vw;
+  /* Hauteur égale à 50% de la hauteur de la vue */
+  flex-wrap: nowrap;
+  /* Empêche les éléments de se placer sur plusieurs lignes */
+  width: 100%;
+}
+/* Définition des diapositives */
+.slide {
+  flex: 0 0 100%;
+  /* Largeur de chaque diapositive est de 100% */
+  height: 100%;
+  /* Hauteur de chaque diapositive est de 100% */
+  transition: .5s ease-in-out;
+  /* Ajout d'une animation douce pour la transition entre les diapositives */
+}
+/* Définition de l'affichage de l'image de chaque diapositive */
+.slide img {
+  width: 100%;
+  /* Largeur de l'image est de 100% */
+  height: 100%;
+  /* Hauteur de l'image est de 100% */
+  object-fit: cover;
+  /* Couvre tout l'espace disponible */
+  border-radius: 15px;
+  /* Ajout d'un bord arrondi */
+}
+/* Définition des boutons de contrôle du carousel */
+.carousel-controls {
+  position: absolute;
+  /* Les boutons sont absolument positionnés */
+  z-index: 5;
+  /* Ils sont placés au-dessus des autres éléments */
+  left: 5%;
+  /* La distance à gauche est de 10% */
+  right: 5%;
+  /* La distance à droite est de 10% */
+  top: 42%;
+  /* La distance du haut est de 50% */
+  display: flex;
+  /* Affiche les boutons en ligne */
+  justify-content: space-between;
+  /* Espacement égal entre les boutons */
+  z-index: 0;
+}
+/* Style des boutons de contrôle */
+.carousel-controls button {
+  padding: 10px;
+  /* Ajout de padding pour un meilleur contrôle */
+  background-color:transparent;
+  /* Arrière-plan en aquamarine */
+  border: transparent !important;
+}
+/* Définition des flèches de contrôle */
+.carousel-controls button img {
+  width: 8vh;
+  /* Largeur de l'image est de 30px */
+  height: 8vh;
+  /* Hauteur de l'image est de 30px */
+}
+/* Définition des points de contrôle */
+.carousel-dots {
+  position: absolute;
+  /* Les points sont absolument positionnés */
+  z-index: 5;
+  /* Ils sont placés au-dessus des autres éléments */
+  left: 50%;
+  /* La distance à gauche est de 50% */
+  right: 50%;
+  /* La distance à droite est de 50% */
+  bottom: 10%;
+  /*La distance du bas est de 10% */
+  display: flex;
+  /* Affiche les points en ligne */
+  justify-content: center;
+  /* Centrage des points */
+}
+/* Style des points de contrôle */
+.carousel-dots .dot {
+  border-radius: 50%;
+  /* Les points sont en forme de cercle */
+  margin: 5px;
+  /* Ajout d'un margin pour un meilleur contrôle */
+  cursor: pointer;
+  /* Curseur en forme de main pour un meilleur contrôle */
+}
+/* Styles pour les points de navigation du carrousel */
+.carousel-dots .active {
+  /* Border de 10px pour le point actif */
+  border: 10px solid #353435 !important;
+  /* !important permet de surcharger les autres styles éventuels */
+}
+.carousel-dots .inactive {
+  /* Border de 10px pour les points inactifs */
+  border: 10px solid #acafb0;
+}
+
+/* Retourner la fleche précédent dans le bon sens */
+
+#prev {
+  transform: rotate(90deg);
+}
+
+/* Retourner la fleche suivante dans le bon sens */
+
+#next {
+  transform: rotate(-90deg);
+}
+
+.infos-avis {
+  display: flex;
+  padding-right: 10px; /* Ajout de padding à droite */
+}
+
+.infos-accessibilite {
+  display: flex;
+  padding-left: 10px;
+  border-left: #353435 solid 2px; /* Ajout d'une bordure à gauche */
+}
+
+/* Définition du container pour gérer l'affichage de la description */
+.description-offre {
+    font-size: 2vh;
+    color: black;
+    font-family: 'TripSansRegular';
+    width: 85%;
+    margin: 0;
+    margin-top: 10px;
+}
+
+/* Définition du container pour gérer l'affichage de l'annonce */
+.part-annonce {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    padding: 20px;
+}
+
+/* Définition du container pour gérer l'affichage des avis */
+.part-avis {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin: 50px 20px;
+    border: 2px solid rgb(0, 0, 0, .4);
+    border-radius: 10px;
+    height: fit-content;
+    padding: 0 10px 10px 10px;
+}
+
+/* Définition du container pour gérer l'affichage des infos de l'offre */
+.infos-offre {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+/* Définition du comportement des étoiles */
+.etoiles {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.etoiles img {
+    width: 20px;
+    height: 20px;
+}
+
+/* Définition du container pour gérer l'alignement des infos de l'offre */
+.infos-offre img {
+    width: 20px;
+    height: 20px;
+}
+
+.infos-offre p {
+    font-size: 2vh;
+    color: black;
+    font-family: 'TripSansRegular';
+    margin: 0;
+}
+
+  /* Définition du container contact */
+  .part-contact {
+      display: block;
+      flex-direction: row;
+      width: 85%;
+      padding: 20 0 20 0;
+      font-family: 'TripSansBold';
+      font-size: 2vh;
+  }
+  
+  .carte {
+      width: 40vh;
+      border-radius: 15px;
+  }
+  
+  .side-contact {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .side-contact div img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  /* 
+  * Cette règle CSS cible l'élément avec l'ID "container".
+  * Elle définit la largeur à 100% de son élément parent,
+  * applique un padding de 20 pixels sur tous les côtés,
+  * et définit la couleur de fond à gris clair (#f0f0f0).
+  */
+  .side-contact div div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  /* 
+  * Cette règle CSS applique une couleur de fond à l'élément body.
+  * Elle définit la couleur de fond à une teinte bleu clair (#e0f7fa).
+  */
+  .side-contact div div a  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+  }
+
+
+  
+  .horaires {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+
+/* Style du bouton retour */
+.bouton-retour {
+  display: flex; /* Utiliser flex pour aligner l'image et le texte */
+  align-items: center; /* Centre verticalement le contenu */
+  padding: 10px 30px; /* Padding à droite et à gauche */
+  cursor: pointer; /* Curseur en forme de main */
+  border: none;
+  border-radius: 8px;
+  background-color: var(--turquoise-orange);
+  font-size: 16px;
+  width: fit-content;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.bouton-retour img{
+  height: 18px;
+  margin-right: 10px; /* Espace entre l'image et le texte */
+  width: auto; /* Largeur automatique pour garder le ratio */
+}
+
+.bouton-retour a {
+  text-decoration: none;
+  color: black;
+}
+
+.header-avis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 2px solid rgb(0, 0, 0, .4);
+}
+
+.header-avis h3{
+  font-family: 'TripSansBold';
+}
+
+.profil {
+  display: flex; /* Active Flexbox */
+  flex-direction: column; /* Aligne les éléments verticalement */
+  gap: 10px; /* Ajoute un espacement entre les éléments */
+  width: auto; /* Permet à la div de prendre uniquement la place nécessaire */
+}
+
+.profil > .container-profil {
+  display: flex; /* Active Flexbox */
+  flex-direction: row; /* Aligne les éléments horizontalement */
+  align-items: center; /* Centre verticalement les enfants */
+  justify-content: flex-start; /* Aligne les enfants à gauche */
+  gap: 10px; /* Ajoute un espacement entre les enfants */
+  width: auto; /* Permet à la div de prendre uniquement la place nécessaire */
+}
+
+.etoile-avis-detail-offre {
+  display: flex; /* Utilise flexbox pour centrer */
+  justify-content: center; /* Centre horizontalement */
+  align-items: center; /* Centre verticalement */
+  width: 100%; /* Prend toute la largeur disponible */
+  text-align: center; /* Centre le texte */
+}
+
+.titre-date {
+  display: flex; /* Active Flexbox */
+  flex-direction: row; /* Aligne les éléments horizontalement */
+  align-items: center; /* Centre verticalement les éléments */
+  gap: 5px; /* Ajoute un espacement entre le titre et la date */
+  width: auto; /* Permet à la div de prendre uniquement la place nécessaire */
+}
+
+.titre-date > h4 {
+  margin: 0; /* Supprime les marges par défaut */
+  white-space: nowrap; /* Empêche le titre de retourner à la ligne */
+  overflow: hidden; /* Coupe le texte qui dépasse */
+  text-overflow: ellipsis; /* Ajoute des points de suspension si le texte est trop long */
+}
+
+.titre-date > p {
+  margin: 0; /* Supprime les marges par défaut */
+  white-space: nowrap; /* Empêche la date de retourner à la ligne */
+  opacity: 70%; /* Style existant pour la date */
+  font-family: 'TripSansRegular'; /* Style existant pour la date */
+}
+
+.pseudo-contexte {
+  display: flex; /* Active Flexbox */
+  flex-direction: row; /* Aligne les éléments horizontalement */
+  align-items: center; /* Centre verticalement les éléments */
+  gap: 10px; /* Ajoute un espacement entre les éléments */
+  width: auto; /* Permet à la div de prendre uniquement la place nécessaire */
+}
+
+.pseudo-contexte > p {
+  margin: 0; /* Supprime les marges par défaut */
+  opacity: 70%; /* Style existant pour le texte */
+  font-family: 'TripSansRegular'; /* Style existant pour le texte */
+}
+
+.ligne_sepa_contexte {
+  border-right: #383838 solid 2px;
+  padding-right: 45px;
+}
+
+.header-avis-profil {
+  display: block !important;
+
+  width: auto;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.commentaire-consulte {
+  display: flex;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, .3);
+  margin-bottom: 10px;
+  font-family: 'TripSansRegular';
+}
+
+.commentaire-reponse {
+  display: flex;
+  padding: 15px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, .3);
+  margin-bottom: 10px;
+  font-family: 'TripSansRegular';
+}
+
+.alignement-conteneur-avis {
+  width: 100%;
+}
+
+.commentaire-non-consulte {
+  display: flex;
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.article-avis {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  height: fit-content;
+}
+
+.reponse {
+  color: rgb(128, 128, 128);
+  font-style: bold;
+}
+
+.detail-offre-footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.poster_avis{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.poster_avis div{
+  display: flex;
+  margin-top: 5px;
+}
+
+.poster_avis > div > img{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.poster_avis > h3{
+  font-family: 'TripSansBold';
+}
+
+#ecrire_avis{
+  width : 99%;
+  height: 200px;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+  resize: none;
+  overflow: auto;
+  font-family: "TripSansRegular";
+}
+
+.exergue {
+  background-color: #ffdfb7;
+}
+
+#ecrire_reponse{
+  width : 90%;
+  height: 100px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 35px;
+  padding: 5px;
+  resize: none;
+  overflow: auto;
+  font-family: "TripSansRegular";
+}
+
+
+#titre_avis{
+  width : 99%;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+  resize: none;
+  overflow: auto;
+  font-family: "TripSansRegular";
+}
+
+#bouton_publier {
+  padding: 10px 0px; /* Padding à droite et à gauche */
+  margin-left: 25px;
+  cursor: pointer; /* CuVisiterseur en forme de main */
+  border: none;
+  border-radius: 8px;
+  background-color: var(--turquoise-orange);
+  font-size: 16px;
+  width: 100%;
+  margin-top: 30px;
+  color: white;
+}
+
+#btn-reponse {
+  border: none;
+  margin: 0px 0px 30px 41px;
+  color: lightslategray;
+  background-color: white;
+}
+
+#bouton_publier:hover {
+  background-color: var(--bleu-rouge);
+  transition: background-color 0.3s ease-in-out;
+}
+
+#titre-contexte {
+  font-family: "TripSansBold";
+  display: block;
+  margin-bottom: 8px;
+}
+
+#options-contexte {
+    width: 20%;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(83, 116, 244, .4);
+}
+
+#options-contexte > option{
+    font-family: "TripSansRegular";
+}
+
+.zone-btn-publier{
+  width: 100%;
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown-menu.show {
+  display: none;
+}
+
+.article-avis > h3{
+  font-family: 'TripSansBold';
+  margin-bottom: 5px;
+}
+
+.form-supp{
+  margin: 10px 0 10px 0 !important;
+}
+
+.bouton-supp{
+  padding: 5px;
+  background-color: white;
+  border: 1px solid red;
+  color: red;
+  border-radius: 5px;
+  font-family: 'TripSansRegular';
+  font-size: 16px;
+  height: 100%;
+  width: 30%;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.75);
+}
+
+.bouton-supp:hover{
+  background-color: red;
+  transition: background-color 0.3s linear;
+  color: white;
+}
+
+/* Boutton afficher avis blacklistés */
+
+/* Style général pour le bouton */
+#btn-blacklist {
+  background-color: #d30027; /* Couleur de fond rouge */
+  color: white; /* Couleur du texte */
+  border: 2px solid white; /* Bordure blanche */
+  box-shadow: inset 0 0 0 2px #d30027; /* Bordure vers l'intérieur */
+  border-radius: 5px; /* Coins arrondis */
+  padding: 10px 20px; /* Espacement interne */
+  font-family: 'TripSansBold'; /* Police personnalisée */
+  font-size: 16px; /* Taille de la police */
+  cursor: pointer; /* Curseur en forme de main */
+  transition: background-color 0.3s ease, transform 0.2s ease, color 0.2s ease, border 0.2s ease; /* Transition pour hover et active */
+}
+
+/* Effet au survol */
+#btn-blacklist:hover {
+  background-color: #b80020; /* Couleur de fond légèrement plus foncée */
+  transform: scale(1.05); /* Agrandissement léger */
+}
+
+/* Style pour le bouton désactivé */
+#btn-blacklist:disabled {
+  background-color: #cccccc; /* Couleur de fond grise */
+  color: #666666; /* Couleur du texte grise */
+  cursor: not-allowed; /* Curseur interdit */
+  opacity: 0.7; /* Transparence */
+}
+
+/* Style pour le bouton lorsqu'il est cliqué */
+#btn-blacklist.clicked {
+  background-color: white; /* Fond blanc */
+  color: #d30027; /* Texte en rouge */
+  box-shadow: inset 0 0 0 2px #d30027; /* Bordure rouge vers l'intérieur */
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease; /* Transition douce */
+}
+
+/* Bouton signaler avis */
+
+#icone-signaler {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.btn-signaler {
+  display: flex; /* S'assure que le bouton s'aligne correctement */
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  padding: 0.5em;
+  cursor: pointer;
+  font-size: 16px;
+  width: fit-content;
+  height: fit-content;
+  color: rgb(255, 0, 0) !important;
+  gap: 10px; /* Ajoute de l'espace entre les éléments */
+  background-color: transparent;
+  border-radius: 8px; /* Ajout d'une bordure arrondie */
+  transition: background-color 0.3s ease, transform 0.2s ease, color 0.2s ease, border 0.2s ease; /* Transition pour hover et active */
+
+}
+
+.btn-signaler p {
+  font-family: TripSansRegular ;
+  color: red;
+}
+
+.btn-signaler:hover {
+  background-color: rgba(255, 0, 0, 0.333);
+}
+
+/*Bouton blacklister avis*/
+.blacklist{
+  position: relative;
+}
+.btn-blacklist {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  font-size: 16px;
+  width: fit-content;
+  color: rgb(152, 152, 152) !important;
+  gap: 10px; /* Ajoute de l'espace entre les éléments */
+  border: none;
+  background-color: transparent;
+  padding: 0.5em;
+  border-radius: 8px; /* Ajout d'une bordure arrondie */
+  transition: background-color 0.3s ease, transform 0.2s ease, color 0.2s ease, border 0.2s ease; /* Transition pour hover et active */
+}
+
+.btn-blacklist:hover {
+  background-color: rgba(152, 152, 152, 0.333);
+}
+
+#icone-blacklist {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.blacklist-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 200px;
+  z-index: 1;
+  right: 0;
+  flex-direction: column;
+  justify-items: center;
+  align-items: stretch;
+}
+
+.blacklist-content button {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border: none;
+  text-align: left;
+  text-decoration: none;
+  width : auto;
+}
+
+.blacklist-content button:hover {
+    background-color: #949494; /* Fond gris clair */
+}
+
+/* PopUp confirmation signalement */
+
+#popup {
+  position: fixed;
+  bottom: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: auto;
+  background-color: rgb(122, 146, 243);
+  color: #fff;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  transition: bottom 0.5s ease;
+  text-align: center;
+  z-index: 1000;
+
+  font-family: TripSansRegular;
+}
+
+#popup.active {
+  bottom: 20px;
+}
+
+#popup .progress-bar {
+  position: relative;
+  height: 5px;
+  background-color: #ffffff;
+  margin-top: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+#popup .progress-bar div {
+  height: 100%;
+  background-color: #76c7c0;
+  width: 0; /* Inversion de la largeur initiale */
+  animation: progress-reverse 4s linear; /* Utilisation de l'animation inversée */
+}
+
+@keyframes progress-reverse {
+  from {
+      width: 0; /* Départ de l'animation inversé */
+  }
+  to {
+      width: 100%; /* Fin de l'animation inversé */
+  }
+}
+
+#popup .close-btn {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#popup .close-btn:hover {
+  text-decoration: underline;
+}
+
+.signaler-like {
+  display: flex !important; /* Assurez-vous que c'est en flex */
+  flex-direction: row; /* Les éléments sont alignés verticalement */
+  align-items: center; /* Alignez horizontalement au centre si nécessaire */
+  justify-content: space-between; /* Espacement entre les éléments */
+}
+
+.like-dislike {
+  width: 50%; /* Ajustez selon vos besoins */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Alignez à droite */
+}
+
+.like-dislike > img{
+  margin-right: 5px;
+}
+
+.like-dislike > span{
+  margin-right: 5px;
+}
+
+
+
+.btn-blacklist{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border: none;
+}
+
+.btn-blacklist > p{
+  color: #1d1d1d;
+  font-family: 'TripSansRegular';
+  font-size: 16px;
+}
+
+.btn-blacklist > img{
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.blacklisted {
+  display : none;
+}
+}
+
+@media (max-width: 800px) {
+.desktop-element {
+  display: none;
+}
+
+body {
+  margin-left: 0px !important;
+}
+
+.titre-rouge {
+  font-size: 24px;
+  color: var(--noir);
+  font-family: 'TripSansBold';
+  width: 85%;
+  margin: 0;
+  padding: 0 0 5 0;
+}
+
+.sous-titre {
+  font-size: 14px;
+  color: black;
+  font-family: 'TripSansRegular';
+  width: 80%;
+  margin: 0;
+}
+
+.side-contact p {
+  overflow-wrap: break-word;
+  max-width: 80%;
+}
+
+/* Définition d'un container pour gérer l'affichage */
+.container {
+overflow: hidden;
+/* Cache les éléments qui dépassent du container */
+height: 50vw;
+/* Hauteur égale à 50% de la hauteur de la vue */
+flex-wrap: nowrap;
+/* Empêche les éléments de se placer sur plusieurs lignes */
+width: fit-content;
+/* Largeur égale à 80% de la largeur de la vue */
+margin-top: 10px;
+}
+/* Définition du carousel */
+.carousel {
+position: relative;
+/* Le carousel est positionné relativement à son parent */
+}
+/* Définition de l'élément contenant les diapositives */
+.carousel-inner {
+display: flex;
+/* Affiche les éléments en ligne */
+overflow: hidden;
+/* Cache les éléments qui dépassent */
+height: 50vw;
+/* Hauteur égale à 50% de la hauteur de la vue */
+flex-wrap: nowrap;
+/* Empêche les éléments de se placer sur plusieurs lignes */
+width: 100%;
+}
+/* Définition des diapositives */
+.slide {
+flex: 0 0 100%;
+/* Largeur de chaque diapositive est de 100% */
+height: 100%;
+/* Hauteur de chaque diapositive est de 100% */
+transition: .5s ease-in-out;
+/* Ajout d'une animation douce pour la transition entre les diapositives */
+}
+/* Définition de l'affichage de l'image de chaque diapositive */
+.slide img {
+width: 100%;
+/* Largeur de l'image est de 100% */
+height: 100%;
+/* Hauteur de l'image est de 100% */
+object-fit: cover;
+/* Couvre tout l'espace disponible */
+border-radius: 15px;
+/* Ajout d'un bord arrondi */
+}
+/* Définition des boutons de contrôle du carousel */
+.carousel-controls {
+position: absolute;
+/* Les boutons sont absolument positionnés */
+z-index: 5;
+/* Ils sont placés au-dessus des autres éléments */
+left: 5%;
+/* La distance à gauche est de 10% */
+right: 5%;
+/* La distance à droite est de 10% */
+top: 42%;
+/* La distance du haut est de 50% */
+display: none;
+/* Affiche les boutons en ligne */
+justify-content: space-between;
+/* Espacement égal entre les boutons */
+z-index: 0;
+}
+/* Style des boutons de contrôle */
+.carousel-controls button {
+padding: 10px;
+/* Ajout de padding pour un meilleur contrôle */
+background-color:transparent;
+/* Arrière-plan en aquamarine */
+border: transparent !important;
+}
+/* Définition des flèches de contrôle */
+.carousel-controls button img {
+width: 8vh;
+/* Largeur de l'image est de 30px */
+height: 8vh;
+/* Hauteur de l'image est de 30px */
+}
+/* Définition des points de contrôle */
+.carousel-dots {
+position: absolute;
+/* Les points sont absolument positionnés */
+z-index: 5;
+/* Ils sont placés au-dessus des autres éléments */
+left: 50%;
+/* La distance à gauche est de 50% */
+right: 50%;
+/* La distance à droite est de 50% */
+bottom: 10%;
+/*La distance du bas est de 10% */
+display: flex;
+/* Affiche les points en ligne */
+justify-content: center;
+/* Centrage des points */
+}
+/* Style des points de contrôle */
+.carousel-dots .dot {
+border-radius: 50%;
+/* Les points sont en forme de cercle */
+margin: 5px;
+/* Ajout d'un margin pour un meilleur contrôle */
+cursor: pointer;
+/* Curseur en forme de main pour un meilleur contrôle */
+}
+/* Styles pour les points de navigation du carrousel */
+.carousel-dots .active {
+/* Border de 10px pour le point actif */
+border: 10px solid #353435 !important;
+/* !important permet de surcharger les autres styles éventuels */
+}
+.carousel-dots .inactive {
+/* Border de 10px pour les points inactifs */
+border: 10px solid #acafb0;
+}
+
+/* Retourner la fleche précédent dans le bon sens */
+
+#prev {
+transform: rotate(90deg);
+}
+
+/* Retourner la fleche suivante dans le bon sens */
+
+#next {
+transform: rotate(-90deg);
+}
+
+/* Définition du comportement des étoiles */
+.etoiles {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 10px;
+} 
+
+.etoiles img {
+  width: 20px;
+  height: 20px;
+}
+
+.infos-offre {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 10px 0px 10px 0px;
+}
+
+/* Définition du container pour gérer l'alignement des infos de l'offre */
+.infos-offre img {
+  width: 20px;
+  height: 20px;
+}
+
+.infos-offre p {
+    font-size: 2vh;
+    color: black;
+    font-family: 'TripSansRegular';
+    margin: 0;
+}
+
+.infos-accessibilite {
+  display: flex;
+  flex-direction: row; /* Aligne chaque section verticalement */
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+}
+
+.infos-avis {
+  display: flex;
+  flex-direction: row; /* Les étoiles et le texte des avis sont alignés horizontalement */
+  align-items: center; /* Alignement vertical des éléments */
+  gap: 10px; /* Espacement entre les étoiles et le texte */
+}
+
+/* Définition du container pour gérer l'affichage de la description */
+.description-offre {
+  font-size: 2vh;
+  color: black;
+  font-family: 'TripSansRegular';
+  width: 85%;
+  margin: 0;
+  margin-top: 10px;
+}
+
+    /* Définition du container contact */
+    .part-contact {
+      display: block;
+      flex-direction: row;
+      width: 100%;
+      padding: 20 0 20 0;
+      font-family: 'TripSansBold';
+      font-size: 2vh;
+  }
+  
+  .carte {
+      width: 40vh;
+      border-radius: 15px;
+  }
+  
+  .side-contact {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .side-contact div img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  /* 
+  * Cette règle CSS cible l'élément avec l'ID "container".
+  * Elle définit la largeur à 100% de son élément parent,
+  * applique un padding de 20 pixels sur tous les côtés,
+  * et définit la couleur de fond à gris clair (#f0f0f0).
+  */
+  .side-contact div div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  /* 
+  * Cette règle CSS applique une couleur de fond à l'élément body.
+  * Elle définit la couleur de fond à une teinte bleu clair (#e0f7fa).
+  */
+  .side-contact div div a  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .horaires {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+
+
+.poster_avis{
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+}
+
+.poster_avis div{
+display: flex;
+margin-top: 5px;
+}
+
+.poster_avis > div > img{
+margin-left: 2px;
+margin-right: 2px;
+}
+
+.poster_avis > h3{
+font-family: 'TripSansBold';
+}
+
+#ecrire_avis{
+width : 100%;
+height: 200px;
+border-radius: 5px;
+margin-top: 10px;
+padding: 5px;
+resize: none;
+overflow: auto;
+font-family: "TripSansRegular";
+font-size: 17px;
+}
+
+#ecrire_reponse{
+  width : 100%;
+  height: 200px;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+  resize: none;
+  overflow: auto;
+  font-family: "TripSansRegular";
+  font-size: 17px;
+}
+
+#titre_avis{
+width : 100%;
+border-radius: 5px;
+margin-top: 10px;
+padding: 5px;
+resize: none;
+overflow: auto;
+font-family: "TripSansRegular";
+font-size: 17px;
+}
+
+#bouton_publier {
+padding: 10px 30px; /* Padding à droite et à gauche */
+cursor: pointer; /* Curseur en forme de main */
+border: none;
+border-radius: 8px;
+background-color: var(--turquoise-orange);
+font-size: 16px;
+width: 100%;
+margin-top: 30px;
+color: white;
+}
+
+.header-avis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 2px solid rgb(0, 0, 0, .4);
+}
+
+.header-avis h3{
+  font-family: 'TripSansBold';
+}
+
+.profil {
+  display: flex; /* Active Flexbox */
+  flex-direction: column; /* Aligne les éléments verticalement */
+  align-items: center; /* Centre les éléments horizontalement */
+  width: 100%; /* La div prend toute la largeur disponible */
+  margin-top: 20px;
+}
+
+.profil > .container-profil {
+  width: 100%; /* Prend toute la largeur disponible */
+  display: flex; /* Active Flexbox pour aligner les enfants */
+  align-items: center; /* Centre verticalement les enfants */
+  justify-content: left; /* Répartit les éléments horizontalement */
+}
+
+.profil > .etoile-avis-detail-offre {
+  width: 100%; /* Prend toute la largeur disponible */
+  display: flex; /* Active Flexbox pour aligner les étoiles */
+  justify-content: center; /* Centre les étoiles horizontalement */
+  margin-top: 10px; /* Ajoute un espacement au-dessus */
+  gap: 5px; /* Ajoute un espacement entre les étoiles */
+}
+
+.profil div {
+  padding-left: 10px;
+  font-family: 'TripSansBold';
+}
+
+.profil > div > p {
+  opacity: 70%;
+  font-family: 'TripSansRegular';
+}
+
+.header-avis-profil {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  /* padding: 20px; */
+}
+
+.container-profil {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+.commentaire-consulte {
+  display: flex;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, .3);
+  margin-bottom: 10px;
+  font-family: 'TripSansRegular';
+}
+
+.commentaire-reponse {
+  display: flex;
+  padding: 15px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, .3);
+  margin-bottom: 10px;
+  font-family: 'TripSansRegular';
+}
+
+.alignement-conteneur-avis {
+  width: 100%;
+}
+
+.commentaire-non-consulte {
+  display: flex;
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.article-avis {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  height: fit-content;
+}
+
+.reponse {
+  color: rgb(128, 128, 128);
+  font-style: bold;
+}
+
+.detail-offre-footer {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.poster_avis{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.poster_avis div{
+  display: flex;
+  margin-top: 5px;
+}
+
+.poster_avis > div > img{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.poster_avis > h3{
+  font-family: 'TripSansBold';
+}
+
+#titre-contexte {
+  font-family: "TripSansBold";
+  display: block;
+  margin-bottom: 8px;
+}
+
+#options-contexte {
+  width: fit-content;
+  padding: 5px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgb(83, 116, 244, .4);
+}
+
+#options-contexte > option{
+  font-family: "TripSansRegular";
+}
+
+.zone-btn-publier{
+  width: 100%;
+}
+
+.article-avis > h3{
+  font-family: 'TripSansBold';
+  margin-bottom: 5px;
+}
+
+.titre-date {
+  display: flex; /* Active Flexbox */
+  flex-direction: column; /* Aligne les éléments verticalement */
+  align-items: flex-start; /* Aligne les éléments à gauche */
+  gap: 5px; /* Ajoute un espacement entre le titre et la date */
+  width: 100%; /* S'assure que la div prend toute la largeur disponible */
+  margin-left: -5px !important; /* Ajuste la marge à gauche pour un meilleur alignement */
+}
+
+.titre-date > h4 {
+  flex: 0; /* Permet au titre de prendre uniquement la place nécessaire */
+  white-space: normal; /* Permet au titre de retourner à la ligne si nécessaire */
+  margin: 0; /* Supprime les marges par défaut */
+}
+
+.titre-date > p {
+  flex: 0; /* Permet à la date de prendre uniquement la place nécessaire */
+  opacity: 70%; /* Style existant pour la date */
+  font-family: 'TripSansRegular'; /* Style existant pour la date */
+  margin: 0; /* Supprime les marges par défaut */
+}
+
+.pseudo-contexte{
+  display: flex;
+  padding: 0px !important;
+  width: 200px;
+  justify-content: space-between;
+}
+
+.pseudo-contexte > p{
+  margin: 5px;
+  opacity: 70%;
+  font-family: 'TripSansRegular';
+}
+
+.ligne_sepa_contexte {
+  border-right: #383838 solid 2px;
+  padding-right: 45px;
+}
+
+/* Bouton signaler avis */
+
+#icone-signaler {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.btn-signaler {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px;
+  cursor: pointer;
+  font-size: 16px;
+  width: fit-content;
+  color: rgb(255, 0, 0) !important;
+  gap: 10px; /* Ajoute de l'espace entre les éléments */
+  border: none;
+  background-color: transparent;
+}
+
+.btn-signaler p {
+  font-family: TripSansRegular ;
+  color: red;
+}
+
+ /* PopUp confirmation signalement */
+
+
+  #popup {
+    position: fixed;
+    bottom: -100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    background-color: rgb(122, 146, 243);
+    color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: bottom 0.5s ease;
+    text-align: center;
+    z-index: 1000;
+
+    font-family: TripSansRegular;
+}
+
+#popup.active {
+    bottom: 60px;
+}
+
+#popup .progress-bar {
+    position: relative;
+    height: 5px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+#popup .progress-bar div {
+  height: 100%;
+  background-color: #76c7c0;
+  width: 0; /* Inversion de la largeur initiale */
+  animation: progress-reverse 4s linear; /* Utilisation de l'animation inversée */
+}
+
+@keyframes progress-reverse {
+  from {
+      width: 0; /* Départ de l'animation inversé */
+  }
+  to {
+      width: 100%; /* Fin de l'animation inversé */
+  }
+}
+
+#popup .close-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#popup .close-btn:hover {
+    text-decoration: underline;
+}
+
+.signaler-like {
+  display: flex !important; /* Assurez-vous que c'est en flex */
+  flex-direction: row; /* Les éléments sont alignés horizontalement */
+  align-items: center; /* Alignez verticalement au centre si nécessaire */
+  justify-content: space-between; /* Espacement entre les éléments */
+}
+
+.like-dislike {
+  width: 50%; /* Ajustez selon vos besoins */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Alignez à droite */
+}
+
+.like-dislike > img{
+  margin-right: 5px;
+}
+
+.like-dislike > span{
+  margin-right: 5px;
+}
+
+.btn-signaler {
+  display: flex; /* S'assure que le bouton s'aligne correctement */
+  align-items: center;
+}
+
+.btn-blacklist{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border: none;
+}
+
+.btn-blacklist > p{
+  color: #1d1d1d;
+  font-family: 'TripSansRegular';
+  font-size: 16px;
+}
+
+.btn-blacklist > img{
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.blacklisted {
+  display : none;
+}
+
+}
+
+/* CSS FACTURATION */
+/*-----------------------------------------------------------------------------------*/
+
+/* Définition du composant de la facturation */
+.facture-liste-facture {
+display: flex;
+flex-direction: row;
+width: 99%;
+justify-content: space-between;
+}
+
+.facture-liste-facture button, .telecharger {
+  background-color: var(--bleuFonce-rougeFonce);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'TripSansBold';
+  padding: 10px;
+  transition: background-color 0.3s ease-in-out;
+  align-self: center;
+  width: 100px;
+}
+
+.facture-liste-facture button:hover, .telecharger:hover {
+  background-color: #d30027;
+}
+
+.facture-tri {
+display: flex;
+align-items: center;
+margin-top: 20px;
+font-family: 'TripSansBold';
+padding: 10px;
+border: 2px solid var(--bleuFonce-rougeFonce);
+border-radius: 10px;
+width: fit-content;
+}
+
+.facture-details {
+max-height: 0;
+opacity: 0;
+overflow: hidden;
+transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), 
+            opacity 0.3s ease-in-out, 
+            padding 0.3s ease-in-out;
+padding: 0 10px;
+}
+
+.facture-details.active {
+max-height: 1000px; /* Toujours une valeur élevée pour éviter de couper le contenu */
+opacity: 1;
+padding: 10px 10px;
+}
+
+.facture-composant-liste {
+  display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+  background-color: #99530317;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid var(--bleuFonce-rougeFonce);
+  font-family: 'TripSansRegular';
+  box-shadow: 1px 1px 5px #383838;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 92%;
+  margin: 30px auto;
+}
+
+.facture-composant-liste:hover {
+  transform: scale(1.01);
+  box-shadow: 3px 3px 10px #1d1d1d;
+}
+
+.facture-offre {
+display: grid;
+flex-direction: row;
+align-items: center;
+margin-top: 10px;
+font-family: 'TripSansBold';
+grid-gap: 50px;
+}
+
+.facture-offre img {
+  height: 120px;
+  width: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+  grid-column: 1/4;
+  grid-row: 2;
+  box-shadow: 1px 1px 5px #1d1d1d;
+}
+
+.facture-total {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-family: 'TripSansBold';
+  grid-column: 4/4;
+  grid-row: 2;
+}
+
+.facture-detail-titre {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  font-family: 'TripSansBold';
+  align-self: flex-start;
+  grid-column: 2/4;
+  grid-row: 2;
+}
+
+.facture-detail-titre a {
+  text-decoration: none;
+}
+
+.facture-detail-option {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-family: 'TripSansRegular';
+  grid-column: 3/4;
+  grid-row: 2;
+}
+
+.facture-detail-element {
+display: flex;
+font-family: 'TripSansRegular';
+}
+
+.telecharger {
+  display: flex;
+  align-self: flex-start;
+  justify-content: center;
+  font-family: 'TripSansBold';
+}
+
+.montant_facture {
+  display: flex;
+  justify-content: flex-end;
+  font-family: 'TripSansRegular';
+}
+
+.facture_total {
+  font-family: 'TripSansBold';
+}
+
+.facture_titre {
+  margin-left: 110px;
+}
+
+.facture_tableau_titre {
+  grid-row: 1;
+  grid-column: 2/4;
+}
+
+.facture_tableau_option {
+  grid-row: 1;
+  grid-column: 3/4;
+}
+
+.facture_tableau_Montant {
+  grid-row: 1;
+  grid-column: 4/4;
+}
+
+.facture_tableau_image {
+  grid-row: 1;
+  grid-column: 1/4;
+}
+
+hr {
+  border : 1px solid var(--bleuFonce-rougeFonce);
+  margin: 10 0 20 0px;
+}
+
+
+/*******************************************************************************************/
+/****************************** POPUP AVIS + SUPPRIMER COMPTE*******************************/
+/*******************************************************************************************/
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Noir semi-transparent */
+  z-index: 9; /* Derrière la popup */
+  display: none; /* Caché par défaut */
+  backdrop-filter: blur(5px); /* Effet de flou */
+}
+
+#popup_avis.desktop{
+  position: fixed;
+  width: fit-content;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--gris-clair);
+  top: 50%; /* Place le centre de la popup au milieu de l'écran verticalement */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Ajuste pour centrer */
+  border-radius: 12px;
+  width: 50vw;
+  height: 45vh;
+  padding: 25px;
+  z-index: 10;
+}
+
+#popup_suppr_compte.desktop{
+  position: fixed;
+  width: fit-content;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--gris-clair);
+  top: 50%; /* Place le centre de la popup au milieu de l'écran verticalement */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Ajuste pour centrer */
+  border-radius: 12px;
+  width: 25vw;
+  height: 20vh;
+  padding: 25px;
+  z-index: 10;
+}
+
+#croix.desktop {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+  cursor: pointer;
+  position: relative;
+  bottom: 56%;
+  left: 4%;
+  padding: 1.5px;
+  background-color: var(--bleuFonce-rougeFonce);
+  border: 1px solid var(--blanc);
+  border-radius: 25px;
+}
+
+#croix_small {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+  cursor: pointer;
+  position: relative;
+  bottom: 57%;
+  left: 3%;
+  padding: 1.5px;
+  background-color: var(--bleuFonce-rougeFonce);
+  border: 1px solid var(--blanc);
+  border-radius: 25px;
+}
+
+#logo.desktop{
+  display: block;
+  width: 300px;
+}
+
+.form-group.desktop {
+  margin-bottom: 15px;
+}
+
+#group.desktop{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 95%;
+}
+
+.form-group.desktop label {
+  font-family: 'TripSansRegular';
+  display: block;
+  text-align: left;
+}
+
+.form-group.desktop input {
+  width: 95%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height: 16px;
+}
+
+#debut.desktop{
+  text-align: center;
+  color: var(--bleuFonce-rougeFonce);
+  margin: 0;
+  font-size: 1.3em;
+  font-family: "TripSansRegular";
+  display: block;
+
+}
+#fin.desktop{
+  text-align: center;
+  color: var(--bleu-rouge);
+  margin: 0;
+  font-size: 2.3em;
+  font-family: "TripSansBold";
+}
+
+.links.desktop a{
+  font-family: 'TripSansRegular';
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+#connexion_popup.desktop {
+  padding: 10px 30px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--turquoise-orange);
+  font-size: 16px;
+  width: 100%;
+  margin-top: 10px;
+  color: white;
+}
+
+#connexion_popup.desktop:hover {
+  background-color: var(--bleu-rouge);
+}
+
+#popup_avis.mobile{
+  position: fixed;
+  width: fit-content;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--gris-clair);
+  top: 50%; /* Place le centre de la popup au milieu de l'écran verticalement */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Ajuste pour centrer */
+  border-radius: 12px;
+  width: 60vw;
+  height: 45vh;
+  padding: 15px 15px 15px 25px;
+  z-index: 10;
+}
+
+#popup_suppr_compte.mobile{
+  position: fixed;
+  width: fit-content;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--gris-clair);
+  top: 50%; /* Place le centre de la popup au milieu de l'écran verticalement */
+  left: 50%;
+  transform: translate(-50%, -50%); /* Ajuste pour centrer */
+  border-radius: 12px;
+  width: 30vw;
+  height: 20vh;
+  padding: 15px 15px 15px 25px;
+  z-index: 10;
+}
+
+
+
+
+#croix.mobile {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+  cursor: pointer;
+  position: relative;
+  left: 6%;
+  bottom: 53%;
+  padding: 1.5px;
+  background-color: var(--bleuFonce-rougeFonce);
+  border: 1px solid var(--blanc);
+  border-radius: 25px;
+}
+
+#croix_small {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+  cursor: pointer;
+  position: relative;
+  bottom: 63%;
+  left: 3%;
+  padding: 1.5px;
+  background-color: var(--bleuFonce-rougeFonce);
+  border: 1px solid var(--blanc);
+  border-radius: 25px;
+}
+
+
+#logo.mobile{
+  display: none;
+}
+
+.form-group.mobile {
+  margin-bottom: 7px;
+}
+
+#group.mobile{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 90%;
+}
+
+.form-group.mobile label {
+  font-family: 'TripSansRegular';
+  display: block;
+  text-align: left;
+}
+
+.form-group.mobile input {
+  width: 95%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height: 16px;
+}
+
+#debut.mobile{
+  display: none;
+}
+
+#fin.mobile{
+  text-align: center;
+  color: var(--bleu-rouge);
+  margin: 0;
+  font-size: 2.5em;
+  font-family: "TripSansBold";
+}
+
+.links.mobile a{
+  font-family: 'TripSansRegular';
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+#connexion_popup.mobile {
+  padding: 10px 30px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--turquoise-orange);
+  font-size: 16px;
+  width: 100%;
+  margin-top: 10px;
+  color: white;
+}
+
+#connexion_popup.mobile:hover {
+  background-color: var(--bleu-rouge);
+}
+
+
+
+
+
+#popup_avis.montrer {
+  display: flex;
+}
+
+#popup_suppr_compte.montrer {
+  display: flex;
+}
+
+#overlay.montrer  {
+  display: block;
+} 
